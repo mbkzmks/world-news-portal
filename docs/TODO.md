@@ -12,8 +12,10 @@
 
 ## 進行中
 
-- [ ] 初回の実ニュース日本語化とキャッシュ再利用の実行確認
-- [ ] PC・スマホの画面と検索・地域切替・天気のブラウザー検証
-- [ ] 指定GitHubリポジトリへの初回コミット・push
-- [ ] GitHub Actions初回実行と自動コミット確認
+- [x] 実ニュース71件の日本語化とキャッシュ再利用（変更なし時はJSON無更新）を確認
+- [x] PC・スマホ390pxの画面、検索・地域切替・天気・Google検索遷移の検証
+- [x] 指定GitHubリポジトリへの初回コミット・push
+- [x] GitHub Actions初回成功とRead and write権限設定
+- [x] Cloudflare Pages初回デプロイ（`world-news-portal.pages.dev`）
+- [ ] 最新公式Actionsへの更新後の実行確認と自動JSONコミット→Pages再デプロイ確認
 - [ ] Cloudflare Pages Git連携と独自ドメインのHTTPS公開確認
