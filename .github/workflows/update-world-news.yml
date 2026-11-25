@@ -2,7 +2,8 @@ name: Update world news
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    # 00:15 / 12:15 UTC = 09:15 / 21:15 JST
+    - cron: '15 */12 * * *'
   workflow_dispatch:
 
 permissions:

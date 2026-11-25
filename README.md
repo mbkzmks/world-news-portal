@@ -23,7 +23,7 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 1. リポジトリの **Settings → Actions → General → Workflow permissions** で **Read and write permissions** を選び **Save**。管理ポリシーで無効なら管理者側の許可が必要。
 2. **Actions → Update world news → Run workflow → main** で初回実行する。
-3. 以後は毎時15分（UTC、日本時間でも毎時15分）に実行。変更時だけJSONをコミットする。コミットに `[skip ci]` は付けない。
+3. 以後は12時間ごと、日本時間 **9:15・21:15**（UTC 0:15・12:15、`15 */12 * * *`）に実行。変更時だけJSONをコミットする。コミットに `[skip ci]` は付けない。
 
 ワークフロー自体にも `permissions: contents: write` を指定している。収集専用のシークレットは不要。
 スケジュールは遅延することがあり、公開リポジトリでは60日間活動がないと定期実行が無効化される場合がある。
@@ -39,7 +39,7 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 Cloudflare GitHub Appのリポジトリへのアクセス許可が未設定の場合は、対象リポジトリを許可してから連携する。
 公開リポジトリのGitHub Actions標準ランナーとPages無料枠を使用する想定。
-**Pages無料枠のGitビルドは月500回**。毎時データが変わると月最大744回になるため、指定どおりの毎時更新を月全体で無料継続できる保証はない。現設定は毎時更新を維持している。2時間ごとへの変更、またはGitHub Actionsからの直接アップロード方式（別途APIトークン設定）での運用を検討する。
+**Pages無料枠のGitビルドは月500回**。無料枠に余裕を持たせるため、定期更新は利用者の指定により12時間ごと（最大月62回）とする。手動更新やソース変更による追加デプロイもビルド数に含まれる。
 公式の [Pages制限](https://developers.cloudflare.com/pages/platform/limits/) を参照。無料枠・サービス条件は変更され得る。
 
 ## データと障害時の動作
