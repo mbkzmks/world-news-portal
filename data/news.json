@@ -1,0 +1,716 @@
+{
+  "updatedAt": "2026-11-25T00:08:41.885Z",
+  "isSample": false,
+  "articles": [
+    {
+      "url": "https://www.channelnewsasia.com/world/shein-100-million-settle-us-shipping-customer-service-claims-6579131",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-25T00:01:18.000Z",
+      "originalTitle": "Shein to pay US$100 million to settle US shipping, customer service claims",
+      "title": "シェイン、米国の配送料と顧客サービスの請求を解決するために1億ドルを支払う",
+      "summary": "",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/world/who-chief-says-staff-evacuated-from-dr-congo-hospital-3013939",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-24T23:58:50.000Z",
+      "originalTitle": "WHO chief says staff evacuated from DR Congo hospital",
+      "title": "WHO事務局長、コンゴ民主共和国の病院からスタッフが避難したと発言",
+      "summary": "ジュネーブ（スイス）：世界保健機関の事務局長は火曜日、コンゴ民主共和国の病院で激しい戦闘から3日間避難していた医療従事者らが同病院から避難したと発表した。テドロス・アダン",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-24T23:58:18.000Z",
+      "originalTitle": "Sullivan Concedes Alaska Senate Race to Peltola",
+      "title": "サリバン氏、アラスカ州上院議員選挙でペルトラ氏に譲歩",
+      "summary": "共和党は、トランプ政権がレースの認定阻止を目的とした長期にわたる訴訟を断念してから5日後に譲歩した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-24T23:55:00.000Z",
+      "originalTitle": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+      "title": "検察が司法省に逃亡者に対する起訴を再検討するよう要請、電子メールで判明",
+      "summary": "ヒューストンの米国弁護士アーロン・ライツ氏は、納税者をだまし取った疑いで国外に逃亡したシカゴの医師の起訴に疑問を呈した。この男性は後にライツ氏の選挙運動に寄付した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-24T23:52:35.000Z",
+      "originalTitle": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
+      "title": "アブレゴ・ガルシア、20か月にわたる法的試練に終止符を打って自主的に米国を離れる",
+      "summary": "昨年不当に国外追放されたキルマー・アルマンド・アブレゴ・ガルシア氏がスペインへ向けて出発する。彼は、トランプ政権が彼をリベリアに強制送還するかもしれないという見通しに直面していた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/world/groups-sue-trump-administration-after-changes-made-to-philadelphia-slavery-exhibit-3013938",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-24T23:44:12.000Z",
+      "originalTitle": "Groups sue Trump administration after changes made to Philadelphia slavery exhibit",
+      "title": "フィラデルフィアの奴隷制展示に変更が加えられたことを受け、団体がトランプ政権を提訴",
+      "summary": "フィラデルフィア：フィラデルフィアに本拠を置く歴史保存団体が、ジオ大統領の跡地にある展示物に変更が加えられたことを受け、奴隷制を「白塗りした描写」であると主張し、トランプ政権を相手取って訴訟を起こした。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T23:39:13.000Z",
+      "originalTitle": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "title": "コンゴ民主共和国で政府軍との激しい衝突の後、反政府勢力が撤退",
+      "summary": "CRPは、ウガンダ仲介の政府との協議中に交わされた約束を理由に、ブニアへの進軍を停止。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-24T23:36:56.000Z",
+      "originalTitle": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+      "title": "アイオワで爆発が起こる。そして住民はそれについて何もすることができません。",
+      "summary": "水曜日に危険な化学物質が爆発する予定の陸軍施設に隣接するミドルタウンの住民は、ドアにテープを貼り、避難の準備をしている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T23:29:40.000Z",
+      "originalTitle": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "title": "南アフリカ、ロシアのためにウクライナと戦おうとしたジンバブエ人を有罪判決",
+      "summary": "ジンバブエ人の男は11月8日、ヨハネスブルグの空港でロシア行きの飛行機に搭乗しようとして逮捕された。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-24T23:27:36.000Z",
+      "originalTitle": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "title": "ブランシュ氏、捜査官が同社の顧客を調査する中、NVIDIA に関する疑問を軽視",
+      "summary": "捜査に詳しい関係者によると、司法省の捜査当局は、エヌビディアの高性能コンピューターチップが他の企業によって中国に不法転用された証拠を収集したという。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/football/bellingham-wondergoal-helps-real-thump-psv-arsenal-and-man-city-held-3013937",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-24T23:27:28.000Z",
+      "originalTitle": "Bellingham wondergoal helps Real thump PSV, Arsenal and Man City held",
+      "title": "ベリンガムのワンダーゴールでレアルがPSV、アーセナル、マンシティを撃破",
+      "summary": "レアル・マドリードは火曜日にPSVアイントホーフェンに5-1の逆転勝利を収め完璧なチャンピオンズリーグスタートを維持したが、アーセナルはホームでボルシア・ドルトムムに1-1で引き離され、ジュード・ベリンガムがベンチから出場して見事なゴールを決めた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/business/general/3360909/agreement-offers-backing-for-real-estate-developers",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-24T23:26:00.000Z",
+      "originalTitle": "Agreement offers backing for real estate developers",
+      "title": "不動産開発業者への支援を提供する協定",
+      "summary": "政府住宅 (GH) 銀行は、タイ信用保証公社 (TCG) と提携して、不動産分野の起業家に融資保証を提供し、資金調達を容易にしました。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/business/general/3360834/ai-investments-set-to-drive-growth",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-24T23:17:00.000Z",
+      "originalTitle": "AI investments set to drive growth",
+      "title": "AI への投資が成長を促進",
+      "summary": "クルンシリ・アセット・マネジメント（KSAM）は、金融コスト、地政学的不確実性、エネルギーリスクの上昇にもかかわらず、人工知能（AI）、テクノロジー、インフラへの投資が来年の成長を維持すると予想している。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/business/motoring/3360769/flooding-sees-thai-auto-exports-plunge-by-34",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-24T23:03:00.000Z",
+      "originalTitle": "Flooding sees Thai auto exports plunge by 34%",
+      "title": "洪水によりタイの自動車輸出は34％減少",
+      "summary": "タイ工業連盟（タイ産業連盟）によると、10月のタイの自動車輸出は、東部州とバンコクでの大規模洪水による内燃機関（ICE）車生産の減少により、前年比34％減の5万4503台となったという。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/property/3360739/condo-market-records-upscale-shift",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-24T22:56:00.000Z",
+      "originalTitle": "Condo market records upscale shift",
+      "title": "マンション市場は高級志向への移行を記録している",
+      "summary": "SET上場のL.P.Nによると、バンコクのコンドミニアム市場は2026年に分岐が起こり、マスマーケットの購買力が低迷する中、デベロッパーが高級需要を開拓するために1,000万バーツ以上の価格の物件に軸足を移しているという。発達。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-24T22:53:00.000Z",
+      "originalTitle": "AI cyber-attacks raise security concerns",
+      "title": "AI サイバー攻撃はセキュリティ上の懸念を引き起こす",
+      "summary": "人工知能 (AI) を活用したサイバー攻撃はマシンの速度で加速しており、タイの組織にとって緊急のセキュリティ課題となっています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T22:50:16.000Z",
+      "originalTitle": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "title": "アーセナルとドルトムントが1-1で引き分け、ギョケレスが英雄から悪役に",
+      "summary": "サッカーのチャンピオンズリーグでボルシア・ドルトムントが1-1の引き分けに反撃する中、アーセナルはチャンスを支配する。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/middle-east/israeli-left-wing-party-halts-coalition-talks-with-eisenkot-3013936",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-24T22:43:37.000Z",
+      "originalTitle": "Israeli left-wing party halts coalition talks with Eisenkot",
+      "title": "イスラエル左翼政党、アイゼンコットとの連立協議を中止",
+      "summary": "エルサレム：イスラエルの左派民主党は火曜日、新政府樹立を目指すガディ・アイゼンコット氏の政党ヤシャルとの連立協議を中止すると発表した。アイゼンコットも外向きのプリムもいない",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6053004/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-24T22:42:19.000Z",
+      "originalTitle": "The Army says there's no reason to panic over controlled ammunition detonation in Iowa",
+      "title": "陸軍は、アイオワ州での制御された弾薬の爆発についてパニックを起こす理由はないと言う",
+      "summary": "米軍は、水曜朝に予定されているアイオワ州の弾薬工場で使用不可能な爆弾製造材料を爆発させる計画について、予防策は講じておりパニックに陥る必要はないと述べた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-24T22:41:29.000Z",
+      "originalTitle": "1st privately built PSLV set for launch early next year: Isro chief",
+      "title": "初の民間建造PSLV、来年初めに打ち上げ予定：イスロ長官",
+      "summary": "イスロのV・ナラヤナン議長は、初の民間製造の極地衛星打ち上げロケットが打ち上げの準備ができていると発表した。このPSLV-N1ロケットは、L&TとHALを含むコンソーシアムによって開発されています。政府は人工衛星の打ち上げを推進しています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T22:37:20.000Z",
+      "originalTitle": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "title": "ベリンガムの衝撃ゴール、ムバッペの2ゴールでレアル・マドリードがPSVを破る",
+      "summary": "サッカーのチャンピオンズリーグでレアル・マドリードがPSVアイントホーフェンを5-1で逆転勝利した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T22:27:25.000Z",
+      "originalTitle": "Assam CM downplays ‘fight’ between two IPS officers",
+      "title": "アッサムCM、2人のIPS職員間の「争い」を軽視",
+      "summary": "衝突は2026年11月22日に州西部のアッサム警察大隊本部で発生した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/world/ukraines-zelensky-hungarys-magyar-hail-new-era-in-post-orban-ties-3013935",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-24T22:25:25.000Z",
+      "originalTitle": "Ukraine’s Zelensky, Hungary’s Magyar hail new era in post-Orban ties",
+      "title": "ウクライナのゼレンスキー氏とハンガリーのマジャル人氏、オルバン後の関係の新たな時代を歓迎",
+      "summary": "ベレホベ（ウクライナ）：ウクライナのヴォロディミル・ゼレンスキー氏とハンガリーのペテル・マジャル氏は火曜日、ウクライナ西部で会談し、ブダペストの前のクレムリン寄りの統治下での隣国間の長年の緊張を経て、両国は関係に新たな時代を迎えることを歓迎した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/rajiv-gandhis-security-withdrawn-to-get-him-killed-rahul-gandhi/articleshow/136142310.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-24T22:23:46.000Z",
+      "originalTitle": "Rajiv Gandhi's security withdrawn to get him killed, says Rahul",
+      "title": "ラジブ・ガンジー氏を殺害するために警備員が撤収したとラーフル氏は語る",
+      "summary": "ラーフル・ガンジーは、ソニア・ガンジーの最新の著書について家族で交わした会話の中で、政府が父親のラジブ・ガンジーの警備を意図的に解除したと非難し、それが彼の暗殺の条件を助長したことを示唆した。彼の電子メールに続いて",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/6-years-after-split-akalis-bjp-tie-up-for-punjab-assembly-polls/articleshow/136142279.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-24T22:16:24.000Z",
+      "originalTitle": "6 years after split, Akalis & BJP tie up for Punjab assembly polls",
+      "title": "分裂から6年、アカリスとインド人民党、パンジャーブ州議会の世論調査で提携",
+      "summary": "NDAが勝てばCMに起用されるのは「兄貴」が悲しい：シャー",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/maharashtra/juvenile-justice-board-hears-bail-plea-of-child-in-conflict-with-law-after-high-court-rejection/article71737833.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T22:06:27.000Z",
+      "originalTitle": "Juvenile Justice Board Hears Bail Plea of Child in Conflict with Law After High Court Rejection",
+      "title": "少年司法委員会、高等裁判所の棄却を受け、法律に抵触する児童の保釈申し立てを審理",
+      "summary": "高等裁判所は、CCLが安全を優先せずに車両を使った操縦を行ったり、インスタグラムのページに動画を投稿したり、安全を優先せずに車両を運転したりしており、両親はこれらの行為を知っていたが介入しなかったと判示した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T22:01:26.000Z",
+      "originalTitle": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "title": "トッド・ブランシュ氏は、NVIDIAのジェンセン・ファンが調査されたかどうかについては確認を拒否した",
+      "summary": "米国司法長官は、政権が「徹底的な」捜査を行ったというドナルド・トランプ氏の主張について議論することを拒否した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/amit-shah-kartarpur-corridor-to-open-after-review/articleshow/136142224.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-24T22:00:54.000Z",
+      "originalTitle": "Amit Shah: Kartarpur corridor to open after review",
+      "title": "アミット・シャー氏：審査後にカルタルプール回廊がオープンへ",
+      "summary": "北軍のアミット・シャー内務大臣は、カルタルプール・サーヒブ回廊は現在進行中の安全上の問題に対処した後にのみ再開すると表明した。巡礼者に手間のかからないアクセスを提供するこの回廊は、セキュリティ警告に従って閉鎖されました。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-24T22:00:00.000Z",
+      "originalTitle": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
+      "title": "シンガポールの廃車がJBで盗みに出るが、一部は違法に道路に戻る道を見つけている",
+      "summary": "CNAは、マレーシアで登録抹消されたシンガポールの車を格安価格で提供するオンラインリストを何百件も発見した。一部の売り手は、買い手がクローン登録プレートを使用してこれらの車を違法に運転していることを認めています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/human-metabolic-chamber-inaugurated-at-cmc-in-vellore/article71738645.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T21:51:25.000Z",
+      "originalTitle": "Human Metabolic Chamber inaugurated at CMC in Vellore",
+      "title": "ヴェールールのCMCにヒト代謝室が開設",
+      "summary": "Human Metabolic Chamber は、ボランティアが 24 時間以上屋内で生活、食事、睡眠をしながら、酸素消費量と二酸化炭素生成を測定する部屋サイズの熱量計です。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/bihar/under-nishants-leadership-the-future-of-the-party-remains-bright-for-next-30-years-says-sanjay-jha/article71738545.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T21:49:37.000Z",
+      "originalTitle": "Under Nishant’s leadership, the future of the party remains bright for next 30 years, says Sanjay Jha",
+      "title": "ニシャント氏の指導の下、党の未来は今後30年間明るいままだとサンジェイ・ジャ氏は語る",
+      "summary": "ジャ氏はまた、ニティッシュ・クマール元州首相が過去20年間にビハール州のイメージとアイデンティティを変えてきたとも述べた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/economy/argentina-entered-recession-in-third-quarter-economists-say.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-24T21:47:48.000Z",
+      "originalTitle": "Argentina entered recession in third quarter, economists say",
+      "title": "アルゼンチンは第3四半期に景気後退入りしたとエコノミストらは語る",
+      "summary": "エコノミストらは、経済活動が2四半期連続で低下したことを受けて、同国は技術的な景気後退に入ったと考えているが、正式な確認は来月発表されるGDP統計に依存する。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/icmr-over-50-per-cent-of-women-of-reproductive-age-anaemic/articleshow/136142193.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-24T21:44:40.000Z",
+      "originalTitle": "ICMR: Over 50 per cent of women of reproductive age anaemic",
+      "title": "ICMR: 生殖年齢の女性の 50% 以上が貧血である",
+      "summary": "「青少年の3分の2はビタミンB12欠乏」",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375674/brazils-lithium-valley-makes-its-play-byd-three-states-fight-over-new-ev-plant",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-24T21:39:04.000Z",
+      "originalTitle": "Brazil’s ‘Lithium Valley’ makes its play for BYD as three states fight over new EV plant",
+      "title": "ブラジルの「リチウムバレー」がBYDに有利に働き、3州が新しいEV工場をめぐって争う",
+      "summary": "中国の自動車メーカーBYDは火曜日、サンパウロやリオデジャネイロにもある電気バス、トラック、バンの工場をどこに建設するかを検討しており、1月にブラジルのミナスジェライス州と覚書を締結すると発表した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/economy/argentinas-mild-september-rebound-boosts-recession-odds.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-24T21:36:34.000Z",
+      "originalTitle": "Argentina’s mild September rebound boosts recession odds",
+      "title": "アルゼンチンの9月の緩やかな景気回復で景気後退の可能性が高まる",
+      "summary": "火曜日に発表された政府統計によると、経済活動は8月から1.1％増加した。 1年前と比べ、国内総生産指数は1.2%縮小した。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-film-fraternity-members-meet-cm-suvendu-adhikari-demand-more-bengali-film-screening/article71738779.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T21:26:19.000Z",
+      "originalTitle": "Bengal film fraternity members meet CM Suvendu Adhikari; demand more Bengali film screening",
+      "title": "ベンガル映画友愛会のメンバーがCMのスベンドゥ・アディカリと出会う。もっとベンガル映画の上映を要求してください",
+      "summary": "映画友愛団体のメンバーらは、国内映画や国際映画のせいで地方のベンガル語映画が脇に追いやられていると語った。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-24T21:09:29.000Z",
+      "originalTitle": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "title": "関税、燃料、肥料のコストが米国最大のリンゴ地域をどのように圧迫しているか",
+      "summary": "ワシントンの 90 億ドル規模の産業は、全米の生のリンゴの 70% 以上を栽培しています。農家は高いコスト、関税、外国の購買力を減少させるドル高に圧迫されている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-24T20:36:38.000Z",
+      "originalTitle": "Huawei guilty on 10 of 12 counts after months-long battle in US courtroom",
+      "title": "ファーウェイ、米国法廷での数カ月にわたる攻防の末、12件中10件で有罪",
+      "summary": "ファーウェイ・テクノロジーズと子会社3社に対する約7年にわたる米国の刑事訴訟は、ブルックリンの陪審が火曜日、銀行詐欺や電信詐欺、セント・ポール大聖堂への共謀など12の罪状のうち10件で同社が有罪であるとの判決を下し、ついに終結した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/24/eu-rules-out-russian-energy-return-regardless-of-us-russia-peace-talks-jorgensen-tells-eur",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-24T20:10:45.000Z",
+      "originalTitle": "EU won't return to Russian energy regardless of US-led peace talks, Jørgensen tells Euronews",
+      "title": "米国主導の和平交渉に関係なく、EUはロシアのエネルギーに戻るつもりはない、とヨルゲンセン氏がユーロニュースに語る",
+      "summary": "EUのエネルギー長官はユーロニュースに対し、ブリュッセルは米ロ和平交渉の結果に関係なく、ロシアのガス禁輸を進めると語った。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/economy/economic-activity-fell-in-september-pushing-argentina-into-technical-recession.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-24T19:26:20.000Z",
+      "originalTitle": "Economic activity fell in September, pushing Argentina towards technical recession",
+      "title": "9月に経済活動が低下し、アルゼンチンは技術的不況に陥った",
+      "summary": "今年の第 3 四半期の経済活動は、前年同期と比較して 1.2% 減少しました。 INDECのデータによると、アルゼンチンは技術的不況に直面している。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/latin-america/lula-wont-invite-milei-to-inauguration-after-foreign-ministers-remarks.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-24T18:59:19.000Z",
+      "originalTitle": "Lula won’t invite Milei to inauguration after foreign minister’s remarks",
+      "title": "ルーラ首相、外相の発言を受けてミレイ氏を就任式に招待しない",
+      "summary": "アルゼンチンのパブロ・キルノ外相がベテラン左翼の再選の「状況」に疑問を呈したことを受け、ブラジルの指導者はハビエル・ミレイ大統領を就任式に招待しないと駐ブエノスアイレス大使を呼び戻す。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/argentina/argentina-moves-to-restrict-purchases-and-contracts-involving-chinese-tech.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-24T17:29:47.000Z",
+      "originalTitle": "Argentina moves to restrict purchases and contracts involving Chinese tech",
+      "title": "アルゼンチン、中国技術関連の購入と契約を制限へ",
+      "summary": "国家サイバーセキュリティ センター (CNC) の指令 7/2026 は、中央政府に製品を供給する企業に新しい要件を導入し、ENACOM がその要件を民間部門に拡張する道を開きます。ホワイトハウスと歩調を合わせ、下線を移動",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/ukraine-s-bid-for-nato-membership-and-more-air-defense-remains-controversial/a-80029852?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-24T16:18:00.000Z",
+      "originalTitle": "Ukraine's bid for NATO membership and more air defense remains controversial",
+      "title": "ウクライナのNATO加盟と防空強化への取り組みは依然として物議を醸している",
+      "summary": "ウクライナのウォロディミル・ゼレンスキー大統領は、自国のNATO加盟を速やかに承認するよう求めている。しかし、ベルリンでのNATO議会で示されたように、これに必要な全会一致は欠けている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/24/italy-watches-worryingly-as-ukraine-strikes-russian-boats-in-libya",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-24T16:05:07.000Z",
+      "originalTitle": "Italy watches worryingly as Ukraine strikes Russian boats in Libya",
+      "title": "ウクライナがリビアでロシア漁船を攻撃する中、イタリアは心配そうに見守る",
+      "summary": "ベンガジ近海と沖合でロシア海軍の船舶２隻に対するウクライナ海軍の無人機攻撃は、この攻撃がリビアの内戦を再燃させる可能性があるとの懸念の中で、イタリアに警戒を与えている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/24/visegrad-leaders-demand-delay-to-ets2-piling-pressure-on-eus-carbon-market",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-24T14:57:26.000Z",
+      "originalTitle": "Visegrad leaders demand delay to ETS2, piling pressure on EU's carbon market",
+      "title": "ヴィシェグラード指導者らはETS2の延期を要求し、EUの炭素市場に圧力を強めている",
+      "summary": "ポーランド、ハンガリー、スロバキア、チェコ共和国は、11月26～27日の欧州理事会に先立ち、域内の拡大した炭素市場を緩和したいと考えている",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-24T14:49:00.000Z",
+      "originalTitle": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+      "title": "EU の拡大: なぜ一部の EU 加盟国は特定の候補国の加盟を阻止するために拒否権を行使するのでしょうか?",
+      "summary": "個々の EU 加盟国は、多くの場合国内政治を理由に、拒否権を行使して加盟候補国を阻止します。 DW はいくつかの事件を取り上げ、その背後にあるものを調査します。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-24T14:07:35.000Z",
+      "originalTitle": "European court rules against Poland and Latvia over migrant pushbacks at Belarus border",
+      "title": "欧州裁判所、ベラルーシ国境での移民の反発をめぐりポーランドとラトビアに不利な判決",
+      "summary": "欧州人権裁判所の判決は、ベラルーシが政治的圧力をかける手段として不法移民のEU国境への移動を促進し、ポーランドとラトビアを促した2021年の別の事件に関するものである。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375631/how-jensen-huangs-nvidia-return-could-deepen-us-rift-over-china-chip-curbs",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-24T14:00:06.000Z",
+      "originalTitle": "How Jensen Huang’s Nvidia return could deepen US rift over China chip curbs",
+      "title": "ジェンスン・ファン氏のNVIDIA復帰が中国チップ規制を巡る米国の亀裂を深める可能性",
+      "summary": "ジェンスン・フアン氏がエヌビディアの最高経営責任者（CEO）に復帰すると、ワシントンの対中政策が複雑になる可能性があり、中国との関係を安定させたいホワイトハウスと、チップ規制を強化する構えの民主党主導の次期議会との間の溝が広がる可能性がある。からの評価",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/24/red-lines-political-horse-trading-and-ukraine-inside-the-eus-increasingly-bitter-budget-ba",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-24T13:19:01.000Z",
+      "originalTitle": "Red lines, political horse-trading and Ukraine: Inside the EU's increasingly bitter budget battle",
+      "title": "レッドライン、政治的馬取引、ウクライナ：ますます激化するEUの予算闘争の内部",
+      "summary": "EUの次期長期予算に関する重要な協議を前に、全体の規模、政治的優先事項、ウクライナ資金、EUの新税など、EU諸国の首都はいくつかの面で意見が分かれている。緊迫した国内政治により妥協は難しくなり、リーダーだけが経験を積める",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/us/politics/article/3375299/chinese-texans-hope-democratic-victories-will-bring-relief-senate-bill-17",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-24T13:00:06.000Z",
+      "originalTitle": "Chinese Texans hope Democratic wins will overturn Senate Bill 17 property restrictions",
+      "title": "中国人テキサス人は民主党の勝利で上院法案17の財産制限が覆されることを期待している",
+      "summary": "晴れた金曜日の朝、テキサス州オースティンのカフェにグループが集まります。ほんの数年前まで、多くの人は見知らぬ人でした。今日、ある人はビスケットを持ってきて、またある人は「アジアのテキサス人投票」と書かれたTシャツを持ってきました。彼らは共有するものを通じて絆を深めてきました",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3375650/mathematicians-asia-unite-new-union-brings-continents-brightest-minds-together",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-24T12:54:37.000Z",
+      "originalTitle": "Mathematicians of Asia unite: new union brings the continent’s brightest minds together",
+      "title": "アジアの数学者が団結：新たな団結により大陸の最も聡明な頭脳が結集",
+      "summary": "アジア数学連合（AsianMU）の発足のために火曜日にアジア中の学者が香港に集まった後、フィールズ賞メダリストのシントン・ヤウ氏は「団結することは、各国が個別に取り組むよりもはるかに強力である」と宣言した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://en.mercopress.com/2026/11/24/colombia-s-peace-deal-turns-ten-with-36-of-its-commitments-fulfilled?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-24T12:35:00.000Z",
+      "originalTitle": "Colombia's peace deal turns ten with 36% of its commitments fulfilled",
+      "title": "コロンビアの和平合意は10周年を迎え、約束の36％が履行された",
+      "summary": "クロック研究所によると、コロンビア国家と元FARCゲリラとの和平合意は火曜日で10周年を迎えるが、約束の36％しか履行されておらず、500人以上の元戦闘員が殺害され、政府は合意を破ったという。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/east-asia/china-investigates-politburo-member-chen-jining-6578161",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-24T11:51:00.000Z",
+      "originalTitle": "China investigates Shanghai party chief Chen Jining, Xinhua says",
+      "title": "新華社通信によると、中国が上海党の陳吉寧党首を調査中",
+      "summary": "共産党政治局員の陳氏（62歳）は、2006年の陳良玉氏以来、上海市の現職トップが捜査対象となるのは初めてである。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051547/court-lifts-administrative-stay-allowing-lead-azide-detonation-to-move-forward",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-24T11:42:15.000Z",
+      "originalTitle": "Court lifts administrative stay, allowing lead azide detonation to move forward",
+      "title": "裁判所が行政処分を解除し、アジ化鉛の爆発の前進を許可",
+      "summary": "アイオワ州で大量の使用不可能な爆弾製造物質を爆発させるという陸軍の計画は断続的スケジュールとなっており、トランプ大統領も何が起こるべきかについて検討している。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "originalTitle": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+      "title": "ルート 66 の黒人旅行者は、ほとんどのガソリン スタンドで歓迎されませんでした - この店を除いて",
+      "summary": "オクラホマ州ルーサーにあるスレット給油所は、ルート 66 沿いにある最初の黒人所有のガソリン スタンドでした。黒人家族が宿泊場所、食事場所、トイレの場所を見つけるためにグリーン ブックを必要としていた当時、ガソリン スタンドは燃料と休息を提供していました。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "originalTitle": "Meet Colombia's fuzzy 'water guardians'",
+      "title": "コロンビアの曖昧な「水の守護者」を紹介する",
+      "summary": "コロンビアのアンデス山脈の高地で、数百万人に水を供給する珍しい植物を、一度に小さな苗木を1本ずつ救おうと、競うボランティアの数が増えている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/nvidia-suppliers-startups-asia-cheer-huangs-return-6577521",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-24T09:59:00.000Z",
+      "originalTitle": "Nvidia suppliers, startups in Asia cheer Huang's return as uncertainty eases",
+      "title": "不確実性が薄れ、NVIDIAのサプライヤーとアジアの新興企業がHuang氏の復帰を歓迎",
+      "summary": "ジェンセン・ファンは台湾の大スターであり、彼の訪問には定期的にファンや記者が押し寄せ、地元メディアはこの現象を「ジェンサニティ」と呼んでいる。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/death-toll-indonesia-factory-fire-rises-26-police-6577536",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-24T09:51:07.000Z",
+      "originalTitle": "Death toll from Indonesia factory fire rises to 26: Police",
+      "title": "インドネシアの工場火災で死者26人に 警察発表",
+      "summary": "",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/singapore/mfa-singapore-icj-myanmar-rohingya-genocide-judgment-6577611",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-24T08:51:00.000Z",
+      "originalTitle": "Singapore studying implications after ICJ finds Myanmar committed genocide against Rohingya",
+      "title": "ICJがミャンマーによるロヒンギャに対する大量虐殺を認定したことを受け、シンガポールが影響を検討",
+      "summary": "外務省は、シンガポールは避難民コミュニティを支援するために地域および国際パートナーと協力する用意があると述べた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019309/A%20Simple%20Question%20About%20Leftovers%20Divides%20China%E2%80%99s%20Internet",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "originalTitle": "A Simple Question About Leftovers Divides China’s Internet",
+      "title": "食べ残しに関する素朴な疑問が中国のインターネットを二分する",
+      "summary": "食べ残しを持ち帰ると恥ずかしい思いをするなどと書いた生徒が降格処分となり、学校では表現の自由と道徳的価値観を育むことの重要性についてネット上で議論が巻き起こった。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019315/Singled%20Out:%20What%E2%80%99s%20Behind%20the%20Mismatch%20on%20China%E2%80%99s%20Marriage%20Market?",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "originalTitle": "Singled Out: What’s Behind the Mismatch on China’s Marriage Market?",
+      "title": "特定：中国の結婚市場における不一致の背後にあるものは何ですか?",
+      "summary": "サービス業の仕事は、教育を受けた中国人女性を国内最大都市に引き寄せている。この国の結婚規範はまだ追いついていない。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-23T13:46:00.000Z",
+      "originalTitle": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+      "title": "北マケドニアは候補者として21年を経てEUへの道が行き詰まったまま",
+      "summary": "EUの拡大は勢いを取り戻し、モンテネグロとアルバニアは加盟に近づいている。しかし、2005年から立候補してきた北マケドニアは、ブルガリアをめぐる政治的に難しい紛争により依然として行き詰まっている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-23T11:01:00.000Z",
+      "originalTitle": "German police respond to multiple school bomb threats",
+      "title": "ドイツ警察、複数の学校爆破予告に対応",
+      "summary": "ドイツの警察は一連の学校に対する爆破予告に対応しているが、現時点ではその予告が信憑性があるとは考えていないという。デンマーク当局も同様の一連の明らかなデマを報告している。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://en.mercopress.com/2026/11/23/colombia-s-government-asks-x-to-suspend-petro-s-account-after-he-calls-for-the-president-to-resign?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-23T04:06:00.000Z",
+      "originalTitle": "Colombia's government asks X to suspend Petro's account after he calls for the president to resign",
+      "title": "コロンビア政府、X氏が大統領辞任要求を受けてペトロ社のアカウント停止を要請",
+      "summary": "コロンビアのアベラルド・デ・ラ・エスプリエラ大統領政府は日曜、ソーシャルネットワークXに対し、グスタボ・ペトロ前大統領が国民に大統領の辞任要求を呼びかけたことを受け、同氏のアカウントを停止するよう要請した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019305/Chinese%20Archaeologists%20Announce%20Findings%20From%20Four%20Key%20Sites",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-22T15:00:00.000Z",
+      "originalTitle": "Chinese Archaeologists Announce Findings From Four Key Sites",
+      "title": "中国の考古学者が4つの主要な遺跡からの発見物を発表",
+      "summary": "これらの発見は、初期の人類の食事、社会、儀式についての洞察を与えてくれます。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-21T17:08:00.000Z",
+      "originalTitle": "Russian helicopter suspected of violating Finnish airspace",
+      "title": "ロシアのヘリコプター、フィンランド領空侵犯の疑い",
+      "summary": "フィンランド国防省は、この侵入は米国の制裁リストに載っているロシアの貨物船に対する土曜日早朝のドローン攻撃に関連していると考えている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019307/Lost%20Ground:%20China%E2%80%99s%20Coffee%20Brands%20Break%20Starbucks%20and%20Nestl%C3%A9%E2%80%99s%20Grip%20on%20Yunnan",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-21T15:00:00.000Z",
+      "originalTitle": "Lost Ground: China’s Coffee Brands Break Starbucks and Nestlé’s Grip on Yunnan",
+      "title": "失地：中国のコーヒーブランドが雲南省におけるスターバックスとネスレの支配を破る",
+      "summary": "ラッキンやマナーなどの国内コーヒーチェーンは豆の価格を値上げしているが、収穫を急ぐとこの地域の評判が脅かされる可能性がある。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://en.mercopress.com/2026/11/20/colombia-to-euthanise-hippos-for-the-first-time-ten-animals-in-four-months?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-20T04:24:00.000Z",
+      "originalTitle": "Colombia to euthanise hippos for the first time: ten animals in four months",
+      "title": "コロンビア、初めてカバを安楽死へ：4か月で10頭",
+      "summary": "コロンビア政府は、麻薬王パブロ・エスコバル氏が1980年代に初めてカバを自分の農園に持ち込んで以来、国内の外来種であるカバに対して初めて化学的安楽死を実施する。環境省",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019298/China%E2%80%99s%20Cargo%20Drones%20Take%20Off%20With%20Two%20Successful%20Trials",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "originalTitle": "China’s Cargo Drones Take Off With Two Successful Trials",
+      "title": "中国の貨物ドローンが2つの試験に成功し出発",
+      "summary": "国内企業２社は先週、貨物や緊急配送用に設計された無人航空機の飛行および配送試験に成功した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://en.mercopress.com/2026/11/17/leo-xiv-after-his-tour-there-is-no-need-to-hate-each-other-or-use-such-violent-language?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-17T16:37:00.000Z",
+      "originalTitle": "Leo XIV after his tour: “There is no need to hate each other or use such violent language”",
+      "title": "ツアー後のレオ14世：「お互いを憎んだり、そのような暴力的な言葉を使う必要はない」",
+      "summary": "教皇レオ14世は、ウルグアイ、アルゼンチン、ペルーを11日間歴訪した後、ローマに戻る機内で行った記者会見で、「多くの状況で意図的に引き起こされた」攻撃的な政治論争と二極化を批判した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://en.mercopress.com/2026/11/17/falklands-close-november-with-cricket-archery-and-hockey-after-opening-sports-complex?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-17T13:40:00.000Z",
+      "originalTitle": "Falklands close November with cricket, archery and hockey after opening Sports Complex",
+      "title": "フォークランドはスポーツコンプレックスをオープン後、クリケット、アーチェリー、ホッケーで11月を終える",
+      "summary": "フォークランド諸島では、スタンレーの新しい国立スポーツ複合施設の正式オープンから 1 週間後、1 か月間にわたって国際的なスポーツ活動が活発に行われています。",
+      "translationStatus": "translated"
+    }
+  ]
+}

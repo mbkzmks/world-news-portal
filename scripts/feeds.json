@@ -1,0 +1,16 @@
+[
+  { "region": "us", "source": "NPR News", "url": "https://feeds.npr.org/1003/rss.xml" },
+  { "region": "us", "source": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml" },
+  { "region": "eu", "source": "Euronews", "url": "https://www.euronews.com/rss?format=mrss&level=theme&name=european-union" },
+  { "region": "eu", "source": "DW", "url": "https://rss.dw.com/rdf/rss-en-eu" },
+  { "region": "china", "source": "South China Morning Post", "url": "https://www.scmp.com/rss/4/feed" },
+  { "region": "china", "source": "Sixth Tone", "url": "https://www.sixthtone.com/rss" },
+  { "region": "sea", "source": "CNA", "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511" },
+  { "region": "sea", "source": "Bangkok Post", "url": "https://www.bangkokpost.com/rss/data/most-recent.xml" },
+  { "region": "india", "source": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss" },
+  { "region": "india", "source": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" },
+  { "region": "mideast", "source": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+  { "region": "mideast", "source": "Arab News", "url": "https://www.arabnews.com/rss.xml" },
+  { "region": "latam", "source": "MercoPress", "url": "https://en.mercopress.com/rss/latin-america" },
+  { "region": "latam", "source": "Buenos Aires Times", "url": "https://www.batimes.com.ar/feed" }
+]

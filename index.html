@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142d3a">
+  <title>海外ニュースポータルポップコーン｜世界のいまを、ひとつまみ。</title>
+  <meta name="description" content="アメリカ、EU、中国、東南アジア、インド、中東、南米。世界7地域のニュースを日本語でチェック。海外ニュースポータルポップコーン。">
+  <link rel="canonical" href="https://worldnewsportal.aipopcorn.jp/">
+  <meta property="og:title" content="海外ニュースポータルポップコーン">
+  <meta property="og:description" content="世界のいまを、ひとつまみ。7つの地域のニュースを日本語で。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://worldnewsportal.aipopcorn.jp/">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="module" src="/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#news">ニュースへ移動</a>
+  <div class="topline"><div class="container"><span>WORLD NEWS, A LITTLE CLOSER.</span><time id="today"></time></div></div>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/" aria-label="海外ニュースポータルポップコーン ホーム">
+        <span class="brand-mark" aria-hidden="true">🍿</span>
+        <span><span class="brand-kicker">海外ニュースポータル</span><span class="brand-name">ポップコーン<span class="brand-dot">.</span></span></span>
+      </a>
+      <form id="search-form" class="search-form" role="search" action="https://www.google.com/search" method="get">
+        <label class="sr-only" for="search">ニュースを検索</label>
+        <span aria-hidden="true" class="search-icon">⌕</span>
+        <input id="search" name="q" type="search" placeholder="気になるニュースを探す" autocomplete="off" aria-describedby="search-hint">
+        <button type="submit" aria-label="Googleで検索">検索 <span aria-hidden="true">↗</span></button>
+        <span id="search-hint" class="sr-only">入力で記事を絞り込み、EnterでGoogle検索します。</span>
+      </form>
+    </div>
+  </header>
+  <main class="container">
+    <section class="intro" aria-labelledby="intro-title">
+      <div><p class="eyebrow"><span class="live-dot"></span> YOUR DAILY WINDOW TO THE WORLD</p><h1 id="intro-title">世界のいまを、<span>ひとつまみ。</span></h1><p class="intro-copy">7つの地域から届くニュースを、日本語で。<br class="mobile-break">いつもの毎日に、世界の視点を。</p></div>
+      <div class="intro-stamp" aria-hidden="true"><span>7 REGIONS</span><strong>ひろがる世界。<br>はじける発見。</strong><span>ONE PORTAL ↗</span></div>
+    </section>
+    <nav class="region-nav" aria-label="ニュースの地域"><div id="region-tabs" class="region-tabs"></div></nav>
+    <div class="content-grid">
+      <section id="news" class="news-section" aria-labelledby="news-title">
+        <div class="section-heading"><div><p id="section-eyebrow" class="eyebrow">THE LATEST</p><h2 id="news-title">世界の最新ニュース</h2></div><span id="result-count" class="result-count" aria-live="polite"></span></div>
+        <div class="update-line"><span><span class="live-dot"></span>毎時更新</span><span id="updated-at">ニュースを読み込んでいます…</span></div>
+        <p id="data-notice" class="notice" hidden></p>
+        <div id="news-list" class="news-list" aria-busy="true"><p class="status-message">世界のニュースを読み込んでいます…</p></div>
+        <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">⌕</span><h3>該当するニュースがありません</h3><p>別のキーワードや地域で探してみてください。</p><button id="reset-filters" type="button">すべてのニュースを見る →</button></div>
+        <button id="retry-news" class="retry-button" type="button" hidden>もう一度読み込む</button>
+        <div class="news-note"><span aria-hidden="true">◎</span><p>ニュースの見出し・要約は自動翻訳です。正確な内容は配信元の原文をご確認ください。</p></div>
+      </section>
+      <aside class="sidebar" aria-label="天気と便利なリンク">
+        <section class="weather-card" aria-labelledby="weather-title"><div class="sidebar-heading"><h2 id="weather-title">きょうの天気</h2><span>東京 / TOKYO</span></div><div id="weather-content" aria-live="polite"><p class="weather-loading">天気を取得しています…</p></div><a class="weather-credit" href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Weather data by Open-Meteo ↗</a></section>
+        <section class="tools-card" aria-labelledby="tools-title"><p class="eyebrow">A LITTLE HELP</p><h2 id="tools-title">世界をもっと身近に</h2><a href="https://translate.google.com/?sl=auto&tl=ja&op=translate" target="_blank" rel="noopener noreferrer"><span class="tool-icon">文</span><span><strong>Google 翻訳</strong><small>ことばの壁を、軽やかに。</small></span><span aria-hidden="true">↗</span></a><a href="https://www.timeanddate.com/worldclock/" target="_blank" rel="noopener noreferrer"><span class="tool-icon">◷</span><span><strong>世界時計</strong><small>あの街は、いま何時？</small></span><span aria-hidden="true">↗</span></a><a href="https://www.anzen.mofa.go.jp/" target="_blank" rel="noopener noreferrer"><span class="tool-icon">◇</span><span><strong>外務省 海外安全情報</strong><small>出かける前の、安心を。</small></span><span aria-hidden="true">↗</span></a></section>
+        <div class="ad-placeholder" aria-label="広告掲載予定枠"><span>ADVERTISEMENT</span><div><span aria-hidden="true">✳</span><p>ちょっと、ひと息。</p><small>300 × 250</small></div><span>広告掲載スペース</span></div>
+        <div class="sidebar-note"><span aria-hidden="true">🍿</span><p>知らなかった世界が、<br>今日の会話のきっかけに。</p></div>
+      </aside>
+    </div>
+    <section class="about-strip" aria-label="このサイトについて"><span class="eyebrow">ABOUT POPCORN</span><p>世界のニュースを、もっと気軽に。</p><span>7地域・14媒体のRSSから、毎時お届け。</span></section>
+  </main>
+  <footer class="site-footer"><div class="container"><a class="footer-brand" href="/">🍿 ポップコーン<span>.</span></a><p>海外ニュースポータルポップコーン<br><small>記事の著作権は各配信元に帰属します。掲載はRSSの見出し・短い要約のみです。</small></p><a href="https://github.com/mbkzmks/world-news-portal" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div></footer>
+  <noscript><p class="notice container">ニュースの表示にはJavaScriptが必要です。ブラウザーの設定で有効にしてください。</p></noscript>
+</body>
+</html>
