@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:08:41.885Z",
+  "updatedAt": "2026-11-25T00:18:49.374Z",
   "isSample": false,
   "articles": [
     {
@@ -10,6 +10,16 @@
       "originalTitle": "Shein to pay US$100 million to settle US shipping, customer service claims",
       "title": "シェイン、米国の配送料と顧客サービスの請求を解決するために1億ドルを支払う",
       "summary": "",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "originalTitle": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "title": "イラン戦争の実況：フーシ派が連合軍のホデイダ命令をめぐりサウジの港を脅迫",
+      "summary": "フーシ派は、連合軍が避難命令を出した後、ホデイダが攻撃された場合にはジッダと他のサウジアラビアの港を標的にすることを誓約している。",
       "translationStatus": "translated"
     },
     {
@@ -290,6 +300,16 @@
       "originalTitle": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
       "title": "シンガポールの廃車がJBで盗みに出るが、一部は違法に道路に戻る道を見つけている",
       "summary": "CNAは、マレーシアで登録抹消されたシンガポールの車を格安価格で提供するオンラインリストを何百件も発見した。一部の売り手は、買い手がクローン登録プレートを使用してこれらの車を違法に運転していることを認めています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-forms-search-committee-to-find-experts-for-fresh-vizhinjam-erosion-study/article71738692.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T21:54:44.000Z",
+      "originalTitle": "Keralam govt. forms search committee to find experts for fresh Vizhinjam erosion study",
+      "title": "ケーララム州政府新たなビジンジャム侵食研究の専門家を見つけるために調査委員会を設立",
+      "summary": "この動きは、利益相反の懸念を巡る前回の専門委員会の報告書を無効とするケーララ高等裁判所の決定に続くものである。",
       "translationStatus": "translated"
     },
     {
