@@ -45,7 +45,7 @@ export async function fetchWithTimeout(url, { fetchImpl = fetch, timeout = 15000
 export async function translateArticle(title, summary, fetchImpl = fetch) {
   const url = new URL('https://translate.googleapis.com/translate_a/single');
   url.search = new URLSearchParams({ client: 'gtx', sl: 'auto', tl: 'ja', dt: 't', q: title + SEPARATOR + summary });
-  const response = await fetchWithTimeout(url, { fetchImpl });
+  const response = await fetchWithTimeout(url, { fetchImpl, timeout: 8000 });
   const data = await response.json();
   if (!Array.isArray(data?.[0])) throw new Error('Invalid translation response');
   const translated = data[0].map(segment => typeof segment?.[0] === 'string' ? segment[0] : '').join('');
@@ -101,15 +101,8 @@ export async function collectNews({ feeds, previous, fetchImpl = fetch, parse = 
           continue;
         }
         const originalSummary = plainText(item.contentSnippet || item.summary || item.content, 240);
-        let translated;
-        try {
-          translated = await translateArticle(originalTitle, originalSummary, fetchImpl);
-        } catch (error) {
-          translationFailures++;
-          logger.warn(`[translation] ${feed.source}: ${error.message}`);
-          translated = { title: originalTitle, summary: originalSummary, translationStatus: 'original' };
-        }
-        results.push({ url, region: feed.region, source: feed.source, publishedAt: new Date(date).toISOString(), originalTitle, ...translated });
+        results.push({ url, region: feed.region, source: feed.source, publishedAt: new Date(date).toISOString(), originalTitle,
+          title: originalTitle, summary: originalSummary, translationStatus: 'original' });
       }
       logger.info(`[feed] ${feed.source}: ${items.length} items`);
     } catch (error) {
@@ -119,7 +112,19 @@ export async function collectNews({ feeds, previous, fetchImpl = fetch, parse = 
   if (!successfulFeeds || (!results.length && !cached.length)) {
     throw new Error('No usable news fetched; previous data has been preserved.');
   }
-  return { articles: mergeArticles([...results, ...cached]), successfulFeeds, translationFailures };
+  const articles = mergeArticles([...results, ...cached]);
+  // Retry retained originals too, including articles no longer in a feed's top five.
+  // At most 120 translations with an 8s timeout fit inside the workflow's 25m limit.
+  for (const article of articles) {
+    if (article.translationStatus === 'translated') continue;
+    try {
+      Object.assign(article, await translateArticle(article.originalTitle || article.title, article.summary, fetchImpl));
+    } catch (error) {
+      translationFailures++;
+      logger.warn(`[translation] ${article.source}: ${error.message}`);
+    }
+  }
+  return { articles, successfulFeeds, translationFailures };
 }
 
 export async function main() {

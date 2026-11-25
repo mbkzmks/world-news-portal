@@ -38,7 +38,9 @@ python3 -m http.server 8080 --bind 127.0.0.1
 6. 初回と自動JSONコミット後にPagesのデプロイ履歴を確認する。Git連携の対象ブランチは `main`。
 
 Cloudflare GitHub Appのリポジトリへのアクセス許可が未設定の場合は、対象リポジトリを許可してから連携する。
-公開リポジトリのGitHub Actions標準ランナーとPages無料枠を使用する想定。無料枠・サービス条件は変更され得る。
+公開リポジトリのGitHub Actions標準ランナーとPages無料枠を使用する想定。
+**Pages無料枠のGitビルドは月500回**。毎時データが変わると月最大744回になるため、指定どおりの毎時更新を月全体で無料継続できる保証はない。現設定は毎時更新を維持している。2時間ごとへの変更、またはGitHub Actionsからの直接アップロード方式（別途APIトークン設定）での運用を検討する。
+公式の [Pages制限](https://developers.cloudflare.com/pages/platform/limits/) を参照。無料枠・サービス条件は変更され得る。
 
 ## データと障害時の動作
 

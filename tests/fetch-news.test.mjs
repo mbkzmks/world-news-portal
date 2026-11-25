@@ -58,6 +58,18 @@ test('samples are removed on first successful collection, latest five only', asy
   assert.ok(!result.articles.some(article => article.url === cached.url));
 });
 
+test('retained original outside the latest feed entries is translated again', async () => {
+  let calls = 0;
+  const result = await collectNews({ feeds: [feed], previous: { articles: [{ ...cached, translationStatus: 'original' }] },
+    fetchImpl: async url => {
+      if (String(url).startsWith('https://translate.')) { calls++; return response([[['再翻訳\n\n【771923】\n\n日本語要約']]]); }
+      return response();
+    }, parse: async () => ({ items: [] }), logger });
+  assert.equal(calls, 1);
+  assert.equal(result.articles[0].translationStatus, 'translated');
+  assert.equal(result.articles[0].title, '再翻訳');
+});
+
 test('URLs are deduplicated, unsafe URLs rejected, newest 120 retained', () => {
   const articles = Array.from({ length: 130 }, (_, i) => ({ ...cached, url: `https://news.example/${i}`, publishedAt: new Date(Date.UTC(2026, 0, 1, i)).toISOString() }));
   const result = mergeArticles([...articles, articles[129], { ...cached, url: 'javascript:alert(1)' }]);
