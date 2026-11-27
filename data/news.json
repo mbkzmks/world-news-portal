@@ -1,7 +1,557 @@
 {
-  "updatedAt": "2026-11-27T08:38:01.287Z",
+  "updatedAt": "2026-11-27T21:20:22.597Z",
   "isSample": false,
   "articles": [
+    {
+      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T21:11:27.000Z",
+      "originalTitle": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "title": "イエメン北部では、食料が売られているにもかかわらず、家族が飢えているのはなぜでしょうか。",
+      "summary": "小麦粉と油は今でもホデイダとサナアの市場に流通しています。しかし、コストが高く、仕事や援助が不足しているため、それは手の届かないところにあります。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/middle-east/27-displaced-syrian-families-return-home-to-restored-damascus-homes-3014319",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-27T21:09:40.000Z",
+      "originalTitle": "27 displaced Syrian families return home to restored Damascus homes",
+      "title": "27人のシリア避難民家族が復元されたダマスカスの家に帰還",
+      "summary": "ダマスカス：シリア人家族27人が、内戦による長年の避難生活を経て、ダマスカスとその周辺の田園地帯の故郷に戻ったと、シリア・アラブ通信社が金曜日に報じた。家族は戻ってきました",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-27T21:08:35.000Z",
+      "originalTitle": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
+      "title": "共和党員が支持する最高裁判所の判決は彼らを傷つける",
+      "summary": "選挙権、移民、汚職に関する決定は反発を生み、投票率を高め、民主党が議会で圧勝する原動力となった。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/saudi-arabia/saudi-falcon-festival-returns-with-hefty-prize-pool-3014254",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-27T20:48:13.000Z",
+      "originalTitle": "Saudi falcon festival returns with hefty prize pool",
+      "title": "サウジのハヤブサ祭りが高額賞金で復活",
+      "summary": "リヤド：世界最大のハヤブサの集まりである2026年キング・アブドゥルアズィズ鷹狩りフェスティバルで、ハヤブサの美しさコンテストのラウンドが木曜日に開始された。月曜日まで開催されるこのフェスティバルでは、4 日間の美人コンテストが開催されます。それぞれのラウンドオフ",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/world/prosecutors-seek-25-year-sentence-for-canada-suicide-poison-seller-3014320",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-27T20:48:13.000Z",
+      "originalTitle": "Prosecutors seek 25-year sentence for Canada suicide poison seller",
+      "title": "検察、カナダの自殺毒物売人に懲役25年を求刑",
+      "summary": "モントリオール：カナダの検察当局は金曜日、人々の自殺を手助けするために毒物を売った男に懲役25年を求刑し、被害者の多くが若く精神的苦痛を経験していると強調した。元シェフのケネス・ロー氏は訴えた",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/world/3362730/paraguay-exminister-arrested-in-latest-bank-failure-fallout",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-27T20:45:00.000Z",
+      "originalTitle": "Paraguay ex-minister arrested in latest bank failure fallout",
+      "title": "パラグアイの元大臣、銀行破綻の余波で逮捕",
+      "summary": "アスンシオン（パラグアイ）－パラグアイの元経済大臣カルロス・フェルナンデス・バルドビノス氏が金曜日に出頭し、同国最大手の銀行の一つの破綻を受けて逮捕された最新の元当局者となった。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T20:44:03.000Z",
+      "originalTitle": "Venezuela to repeal law that bans opposition figures from office",
+      "title": "ベネズエラ、野党勢力の公職追放を禁じる法律を廃止へ",
+      "summary": "野党指導者マリア・コリーナ・マチャドがベネズエラに帰国してから１カ月後のことだ。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T20:40:51.000Z",
+      "originalTitle": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "title": "AI競争が激化する中、OpenAIが企業秘密をめぐりAppleに反論",
+      "summary": "AI製品の開発競争が激化し競争が激化する中、両ハイテク企業間の緊張はさらに高まっている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T20:39:57.000Z",
+      "originalTitle": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "title": "プーチン大統領、極超音速兵器を搭載したロシアの新型原子力潜水艦を公開",
+      "summary": "クレムリンは、2030年までに新しい原子力潜水艦5隻を配備し海軍を拡充する計画だ。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-27T20:37:00.000Z",
+      "originalTitle": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+      "title": "感謝祭の嵐で東海岸で40万人以上が停電",
+      "summary": "この嵐はバージニア州からニューヨーク州まで大雨と強風をもたらし、ホリデーシーズン中の旅行に混乱をもたらした。金曜日にはコンディションは徐々に良くなった。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/world/un-backed-court-to-rule-on-argentinas-bid-to-halt-malvinas-oil-project.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-27T20:34:23.000Z",
+      "originalTitle": "UN-backed court to rule on Argentina's bid to halt Malvinas oil project",
+      "title": "国連支援の裁判所、アルゼンチンのマルビナス石油プロジェクト中止計画に判決へ",
+      "summary": "国連が支援する国際裁判所は、係争中の島々沖での英国とイスラエルの石油プロジェクトを阻止する入札に判決を下す予定だ。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/opinion/a-cheaper-route-to-scaling-up-carbon-capture-3014008",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-27T20:28:13.000Z",
+      "originalTitle": "A cheaper route to scaling up carbon capture",
+      "title": "二酸化炭素回収をスケールアップするためのより安価な方法",
+      "summary": "政府や企業は気候変動に関する約束から現実的な計画に移行しつつあります。重工業を脱炭素化するためのほぼすべての主要な戦略は現在、炭素回収、つまり二酸化炭素が地球に逃げる前に捕捉する工業プロセスに依存しています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.arabnews.com/world/paraguay-ex-minister-arrested-in-latest-bank-failure-fallout-3014318",
+      "region": "mideast",
+      "source": "Arab News",
+      "publishedAt": "2026-11-27T20:28:13.000Z",
+      "originalTitle": "Paraguay ex-minister arrested in latest bank failure fallout",
+      "title": "パラグアイの元大臣、銀行破綻の余波で逮捕",
+      "summary": "パラグアイの元経済大臣カルロス・フェルナンデス・バルドビノス氏が、大手銀行の破綻に関連して自首して逮捕された。危機後、元当局者数人が拘束された。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-27T20:26:39.000Z",
+      "originalTitle": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+      "title": "カラクリチTVK MLAアルル・ヴィグネシュがIAS職員への嫌がらせ容疑で逮捕",
+      "summary": "その後、TVK MLAは尋問のためセーラム-ウルンドゥルペット高速道路沿いのカラクリチにあるサーキットハウスに連行され、そこでは大勢の警察職員が配置されている",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-27T20:21:31.000Z",
+      "originalTitle": "Senior advocate Syed Faisal Qadri appointed as J&K’s Advocate General after two year gap",
+      "title": "上級顧問サイード・ファイサル・カドリ氏が2年のブランクを経てJ&Kの法務長官に任命",
+      "summary": "ファイサル氏は、20 年以上の実務経験を持つ上級擁護者に指定されています。オマル・アブドラ政権は4月にこのポストの人名を提案していたが、この任命は11月5日にJ&K高等裁判所がPILの嘆願を審理した後に行われた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+      "region": "mideast",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T20:18:45.000Z",
+      "originalTitle": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "title": "ハマス指導者の最後の生き残った息子、ガザでのイスラエル軍の攻撃から逃れる",
+      "summary": "ハマス指導者ハリル・アル・ハイヤ氏の最後の生き残りの息子イゼルディーン氏が金曜日、イスラエルによる暗殺未遂事件で生き残った。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-27T20:13:09.000Z",
+      "originalTitle": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+      "title": "同センターは、ロクサバ州の議席比率を2051年まで凍結することを提案",
+      "summary": "新しい憲法改正法案は、新たな境界法案を伴うもので、各州のサバ州議席数を50％増やすことを提案している。彼らはまた、ロク・サバ州における女性の33％の留保を発効させます。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-bills-to-raise-50-lok-sabha-seats-across-states-freeze-delimitation-till-2051/articleshow/136232892.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T20:12:25.000Z",
+      "originalTitle": "Cabinet clears bills to raise 50% Lok Sabha seats across states, freeze delimitation till 2051",
+      "title": "閣議、州全体で国会議員の議席を50％引き上げ、2051年まで境界線を凍結する法案を可決",
+      "summary": "連邦内閣は、サバ州の議席を550から850に拡大することを目的とした新たな法案にゴーサインを出した。この法律は、議会と州議会の両方で女性の 3 分の 1 の留保という重要なマイルストーンを導入します。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
+      "region": "india",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-27T20:09:17.000Z",
+      "originalTitle": "Lok Sabha seat freeze is no longer linked to population stabilisation",
+      "title": "ロク・サバ州の議席凍結はもはや人口安定とは結びつかない",
+      "summary": "1971年国勢調査に基づく議席配分は、再調整が人口を安定させた州の割合に悪影響を与えるという理由で50年間継続された。人口の安定は政府の目標として掲げられていた",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-west-bengal-water-sample/articleshow/136232845.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T20:02:25.000Z",
+      "originalTitle": "Bisleri in fresh trouble, after Goa FSSAI finds bacteria in West Bengal water sample",
+      "title": "ゴアFSSAIが西ベンガル州の水サンプルから細菌を発見、ビスレリが新たな問題に直面",
+      "summary": "インド食品安全基準局は、安全でない飲料水のサンプルを巡り、ビスレリ・インターナショナルに対する訴追を開始した。最近の検査により、西ベンガル州とゴア州の工場からのサンプルから大腸菌群が検出されました。 FSSAIにはrがあります",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/world/3362724/canadas-top-court-largely-upholds-quebec-secularism-law",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-27T19:45:00.000Z",
+      "originalTitle": "Canada's top court largely upholds Quebec secularism law",
+      "title": "カナダ最高裁判所、ケベック州世俗主義法をおおむね支持",
+      "summary": "モントリオール（カナダ）－カナダ最高裁判所は金曜日、さまざまな公務員が勤務中に宗教的シンボルを着用することを禁じたケベック州法がおおむね有効であるとの判決を下し、カナダの憲法を問う画期的な訴訟で決着した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-27T19:43:58.000Z",
+      "originalTitle": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+      "title": "ニューヨーク初の女性上院多数党院内総務、アンドレア・スチュワート＝カズンズ氏死去",
+      "summary": "スチュワート・カズンズ女史（76）は州上院議員を20年間務めた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/saurav-das-tells-piers-morgan-show-that-he-was-born-in-delhi-and-is-indian/articleshow/136231923.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T19:24:08.000Z",
+      "originalTitle": "Saurav Das tells Piers Morgan show that he was born in Delhi and is Indian",
+      "title": "サウラフ・ダスはピアーズ・モーガンの番組で、自分はデリー生まれでインド人であると語る",
+      "summary": "サウラフ・ダスは自身の国籍に関する懸念に言及し、デリー生まれであると述べた。インタビュー中、彼は家族のインドのルーツを主張しながら、文書内の矛盾に反論した。シャジア・イルミは文書に問題があることを示唆した",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/mirwaiz-under-house-arrest-after-sheshnag-vande-mataram-criticism-barred-from-leading-friday-prayers/articleshow/136231921.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T19:20:24.000Z",
+      "originalTitle": "Mirwaiz under house arrest after Sheshnag, Vande Mataram criticism; barred from leading Friday prayers",
+      "title": "シェシュナグ、ヴァンデ・マタラムの批判を受けてミルワイズは自宅軟禁される。金曜日の礼拝を主導することを禁止される",
+      "summary": "J&K政権はフリヤット会議議長のミルワイズ・ウマル・ファルーク氏を自宅軟禁し、ジャミア・マスジッドで重要な金曜礼拝を主導する能力を妨げた。この動きは、最近の構造に対する彼の率直な批判に続くものである。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/jk-gets-advocate-general-after-2-years/articleshow/136231920.cms",
+      "region": "india",
+      "source": "Times of India",
+      "publishedAt": "2026-11-27T19:10:42.000Z",
+      "originalTitle": "J&K gets advocate general after 2 years",
+      "title": "J&Kが2年ぶりに法務長官に就任",
+      "summary": "サイード・ファイサル・カドリ氏はジャンムー・カシミール州の法務長官に任命され、重要な役割を果たした。この重要なポストは、政権交代後の行政上の違いにより、2年間空席のままでした。追加の擁護者",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/argentina/stories-that-caught-our-eye-november-19-to-26-2026.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-27T18:56:43.000Z",
+      "originalTitle": "Stories that caught our eye: November 19 to 26",
+      "title": "気になった話：11月19日～11月26日",
+      "summary": "アルゼンチンでの過去 7 日間で私たちの目を引いたストーリーのセレクション。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T18:48:22.000Z",
+      "originalTitle": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
+      "title": "エストニアは「欧州の安全を確保するため」ロシアとの国境を閉鎖すると外相がバクー訪問中に発言",
+      "summary": "エストニアは南コーカサスとの戦略的関係を強化するため、バクーとエレバンに大使館を開設した。エストニアのマルグス・ツァクナ外相は、アゼルバイジャンの首都訪問中に、バルト三国がエストニアを閉鎖すると認めた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/world/3362356/brazils-lula-thanks-students-for-movement-that-fueled-victory",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-27T17:45:00.000Z",
+      "originalTitle": "Brazil's Lula thanks students for movement that fueled victory",
+      "title": "ブラジルのルラさん、勝利を後押しした運動に学生たちに感謝",
+      "summary": "ニテロイ（ブラジル） - ブラジルのルイス・イナシオ・ルーラ・ダ・シルバ大統領は金曜日、10月の選挙で劇的な逆転を果たし、4期目の当選を果たした大衆運動のきっかけとなった大学生たちに感謝の意を表した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-27T16:51:00.000Z",
+      "originalTitle": "Divisions deepen between EU member states after tense budget summit",
+      "title": "緊迫した予算サミット後、EU加盟国間の亀裂が深まる",
+      "summary": "7年間のEU予算に関するEU首脳会議は、ウクライナへの資金提供方法を巡る意見の対立で物別れに終わった。予算案には、EUが追加資金を捻出するため、米国のハイテク企業に対する3％の税金も含まれている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/argentina/argentina-bans-online-betting-by-minors-gambling-sponsorship-on-sports-kits.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-27T15:58:20.000Z",
+      "originalTitle": "Argentina bans online betting by minors, gambling sponsorship on sports kits",
+      "title": "アルゼンチン、未成年者によるオンライン賭博とスポーツキットのギャンブルスポンサーシップを禁止",
+      "summary": "アルゼンチンは賭博スポンサーシップの禁止でオンラインギャンブルをターゲットにしている。上院は依存症を対象とした法案を全会一致で可決し、スポーツやメディア全体での広告を禁止する。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-27T15:48:00.000Z",
+      "originalTitle": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+      "title": "オランダ当局、香港行きの乗客の荷物から絶滅危惧種のカメ26匹を押収",
+      "summary": "この小さなバヤルタ泥ガメは、2018 年に発見されたばかりです。野生では約 300 頭が生息していると考えられており、絶滅の危機に瀕しています。その数のほぼ10分の1は、ダクトテープで縛られた状態で旅行者の鞄の中に隠されていた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html",
+      "region": "us",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-27T15:47:57.000Z",
+      "originalTitle": "In Democrats vs. Trump, the Loser May Be Federal Contractors",
+      "title": "民主党対トランプ、敗者は連邦請負業者かもしれない",
+      "summary": "次期民主党多数派は、予定されている調査で企業やその他の部外者をターゲットにし始めているが、大統領は許可なく応じた場合は解雇すると脅している。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.batimes.com.ar/news/argentina/government-scores-legislative-wins-despite-economic-uncertainty.phtml",
+      "region": "latam",
+      "source": "Buenos Aires Times",
+      "publishedAt": "2026-11-27T15:44:29.000Z",
+      "originalTitle": "Milei government scores legislative wins, despite economic uncertainty",
+      "title": "ミレイ政権、経済的不確実性にもかかわらず議会で勝利を収める",
+      "summary": "経済的懸念が根強く、重要な政策決定をめぐって内部分裂が表面化する中、議会での勝利がミレイ政権に勢いを与える。リーマス",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/27/social-worker-in-italys-family-in-the-woods-case-suspended-for-70-days",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T15:04:33.000Z",
+      "originalTitle": "Social worker in Italy's 'family in the woods' case suspended for 70 days",
+      "title": "イタリア「森の中の家族」事件のソーシャルワーカー、70日間の停職処分",
+      "summary": "アブルッツォ州社会福祉士会の規律評議会は、イタリアで無電化生活を送っている家族を巻き込んだ事件の処理を巡り、ヴェルスカ・ダンジェロ氏に制裁を科した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/world/3362315/un-refugee-agency-seeks-71-billion-in-2027",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-27T14:45:00.000Z",
+      "originalTitle": "UN refugee agency seeks $7.1 billion in 2027",
+      "title": "国連難民機関、2027年に71億ドルを目指す",
+      "summary": "ジュネーブ - 国連難民機関は金曜日、2027年の無国籍者の保護と緊急事態への対応に向けて、大幅に減額された71億ドルを求めていると発表した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.bangkokpost.com/business/general/3362309/bid-to-suspend-embattled-nbtc-chairman-rejected",
+      "region": "sea",
+      "source": "Bangkok Post",
+      "publishedAt": "2026-11-27T14:31:00.000Z",
+      "originalTitle": "Bid to suspend embattled NBTC chairman rejected",
+      "title": "苦境に立たされたNBTC委員長の職を辞任する入札は拒否された",
+      "summary": "最高行政裁判所は、国家放送電気通信委員会（NBTC）選考委員会によるNBTC委員長サラナ・ブーンバイチャイヤプルック氏の停職請求を却下し、上院の最終判決が出るまでの間、",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T14:29:14.000Z",
+      "originalTitle": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews",
+      "title": "トランプ大統領の関税でEUとインドネシアの貿易関係が緊密になったと大臣がユーロニュースに語る",
+      "summary": "インドネシアのアイルランガ・ハルタルト経済担当調整大臣は、ユーロニュースとの独占インタビューで、米国の関税によりEUとインドネシアの関係は緊密になったと語った。 10年間にわたる協議を経て、両国は先週合意に署名した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-27T14:20:00.000Z",
+      "originalTitle": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+      "title": "ノース・アトランティック航空、航空燃料費負担で破産申請",
+      "summary": "この格安航空会社は数年前に設立されたばかりで、利益を上げるのに苦労していました。イラン戦争による航空燃料価格の高騰により、ノルウェーの北欧アトランティック航空は現在破産に追い込まれている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/india-police-rescue-indonesians-malaysians-cyber-fraud-6587301",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-27T14:10:00.000Z",
+      "originalTitle": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​",
+      "title": "インド警察、数十人のインドネシア人、マレーシア人をサイバー詐欺被害から救出",
+      "summary": "警察によると、彼らは雇用と「儲かる機会」を約束してインドに誘惑され、その後、偽の投資スキームを通じて被害者を騙すことを強要されたという。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/politics/article/3376004/how-xis-party-discipline-playbook-signals-strict-vetting-ahead-2027-congress",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-27T14:00:08.000Z",
+      "originalTitle": "How Xi’s party discipline playbook signals strict vetting ahead of the 2027 congress",
+      "title": "習主席の党規律戦略は、2027年の党大会に向けて厳格な審査を示唆している",
+      "summary": "中国が新たに発表した第20期中央委員会第5回総会の副読本は、来年の第21回共産党大会を形作る優先事項への明確な窓を提供する。メッセージは紛れもないものです: Presi",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-eu-2092-rdf",
+      "region": "eu",
+      "source": "DW",
+      "publishedAt": "2026-11-27T13:28:00.000Z",
+      "originalTitle": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+      "title": "インフォーマーTVオーナーのヴチチェビッチ逮捕：セルビアの親ヴチッチメディアマシンとの清算は始まったのか？",
+      "summary": "メディアオーナーのドラガン・J・ヴチチェビッチ氏の逮捕は、セルビアが自国の親ヴチッチ派メディアの背後にいる人々に責任を負わせているのか、それともこれも別の政治的権力闘争なのかという疑問を引き起こしている。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/global-brands-zara-hm-bangladesh-unrest-india-shift-production-6587826",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-27T13:17:17.000Z",
+      "originalTitle": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "title": "世界的なファッションブランドは、不安の中、バングラデシュからインドに注文を移す",
+      "summary": "最近の騒乱を受けて、ザラ、H&M、マークス・アンド・スペンサーなどは注文をインド、ベトナム、カンボジアなどの国に振り向けるようになったと地元工場経営者らがロイターに語った。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3376081/china-test-fires-worlds-first-metal-powder-fuelled-afterburner-fighter-jets",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-27T13:00:08.000Z",
+      "originalTitle": "China test-fires world’s first metal powder-fuelled afterburner for fighter jets",
+      "title": "中国、世界初の戦闘機用金属粉末燃料アフターバーナーの試験発射",
+      "summary": "金属粉末がジェットエンジンの燃料になる可能性は低いように思えるかもしれないが、中国の科学者らはそれが飛行機をより高速に推進するのに役立つ可能性があると信じている。中国東部の研究チームが試作ターボジェットエンジンの地上試験に成功",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/pakistan-karachi-building-collapse-death-toll-rise-6587796",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-27T12:54:00.000Z",
+      "originalTitle": "Death toll in Pakistan building collapse rises to eight",
+      "title": "パキスタンの建物倒壊で死者8人に増加",
+      "summary": "救急サービス当局者はAFPに対し、「まだ約10人が行方不明で、瓦礫の中から全員が救出されるまで活動は続く」と語った。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.euronews.com/2026/11/27/no-burqas-at-school-and-fewer-foreign-pupils-italy-passes-controversial-education-law",
+      "region": "eu",
+      "source": "Euronews",
+      "publishedAt": "2026-11-27T12:52:44.000Z",
+      "originalTitle": "No burqas at school and fewer foreign pupils: Italy passes controversial education law",
+      "title": "学校でのブルカ禁止と外国人生徒の減少：イタリアで物議を醸す教育法が可決される",
+      "summary": "デジタル移行に関する新たな規則を含む学校令は、木曜日に最終的に下院で承認された。投票中、野党議員らは「学校では外国人は誰もいない」と書かれたプラカードを掲げた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-27T12:31:46.000Z",
+      "originalTitle": "No warning, no mercy: why China moved fast to topple Chen Jining",
+      "title": "警告も容赦もない：なぜ中国は陳済寧打倒に急速に動いたのか",
+      "summary": "習近平国家主席が深センでのアジア太平洋経済協力会議（APEC）首脳会議と二国間行事から北京に戻った数日後、与党共産党の汚職撲滅監視機関がトップオフィスを襲撃した。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/indias-modi-revive-parliament-expansion-bill-tied-womens-quota-sources-say-6587726",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-27T12:23:00.000Z",
+      "originalTitle": "India's Modi to revive parliament expansion bill tied to women's quota, sources say",
+      "title": "インドのモディ首相、女性クォータに関連した議会拡大法案を復活させると関係者が語る",
+      "summary": "インド議会には女性の議席が確保されておらず、一連の抗議活動や挫折を経て、この法案はモディ首相の政治力を試すことになる。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-27T11:59:02.000Z",
+      "originalTitle": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "title": "感謝祭の嵐が東海岸を襲う。そしてブラックフライデーの売上は記録的な水準に達する",
+      "summary": "強力な嵐により、約100万人の顧客が停電し、道路が浸水した。そして専門家らは、インフレがアメリカのホリデーシーズンの支出を抑制することはないと予測している",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/asia/sri-lanka-man-murder-suspect-crash-wild-elephant-6587536",
+      "region": "sea",
+      "source": "CNA",
+      "publishedAt": "2026-11-27T11:12:14.000Z",
+      "originalTitle": "Fleeing murder suspect crashes into elephant in Sri Lanka",
+      "title": "スリランカで逃走中の殺人容疑者が象に衝突",
+      "summary": "警察によると、男のスクーターがジャングルから道路に出てきたゾウに衝突し、逃亡の試みは終わったという。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3375982/chinas-giant-sphere-hunting-ghost-particles-has-won-top-engineering-prize",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-27T11:00:10.000Z",
+      "originalTitle": "China’s giant sphere for hunting ghost particles has won a top engineering prize",
+      "title": "ゴースト粒子を狩るための中国の巨大球体が最高の工学賞を受賞",
+      "summary": "12 階建てのビルほどの高さで、幽霊のような粒子を捕捉するために中国南部のなだらかな丘の下 700 メートル (2,300 フィート) に埋められた巨大な透明な球が、世界最高の工学賞の 1 つを受賞しました。江門地下街",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-27T10:59:36.000Z",
+      "originalTitle": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "title": "感謝祭の停電から、荒天と経済危機に見舞われた休日のブラックフライデーまで",
+      "summary": "木曜日、嵐が国の大部分を襲い、数千軒の住宅が停電し、旅行に混乱が生じた。今日、ブラックフライデーのショッピングセールが始まり、土曜日にニューヨーク市は延期されていたメイシーズ感謝祭を開催します",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3376066/china-and-india-hold-fresh-border-talks-both-boost-military-readiness-winter",
+      "region": "china",
+      "source": "South China Morning Post",
+      "publishedAt": "2026-11-27T10:27:13.000Z",
+      "originalTitle": "China and India hold fresh border talks as both boost military readiness before winter",
+      "title": "中国とインドが新たな国境協議を開催、両国とも冬を前に軍事準備を強化",
+      "summary": "中国とインドは、両国が戦闘準備と後方支援を強化しながらも、激戦の国境をめぐる緊張を管理するために協議を行っている。彼らは、沿線の平和を維持するために外交および軍事ルートを通じて連絡を取り続けた。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-27T10:01:00.000Z",
+      "originalTitle": "Can luxury save Macy's?",
+      "title": "贅沢品はメイシーズを救えるのか？",
+      "summary": "今週のメイシーズ 100 回目感謝祭パレードで、デパートは転換点を迎えています。何年も売上を落としてきたこの小売業者は、高級品の販売店として自らを再考しています。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "originalTitle": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "title": "トランプ氏は事実上亡命を廃止した。擁護者らは最高裁に修復を期待している",
+      "summary": "亡命禁止、大量解雇、新たな法的措置といったトランプ大統領の抜本的な移民法改正により、亡命はほぼ終わった。高等法院は間もなく、一部のシフトが人々の適正手続きを拒否するかどうかを検討する予定である。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6050829/strangers-connect-by-sharing-stories-of-their-favorite-relatives",
+      "region": "us",
+      "source": "NPR News",
+      "publishedAt": "2026-11-27T09:45:07.000Z",
+      "originalTitle": "Strangers connect by sharing stories of their favorite relatives",
+      "title": "見知らぬ人たちが、お気に入りの親戚の話を共有することでつながります",
+      "summary": "休暇に家族が集まる中、私たちは Connect 250 に参加します。これは、Morning Edition と StoryCorps が、見知らぬ人たちをペアにして仮想インタビューを行うことでアメリカ建国 250 周年を祝うプロジェクトです。",
+      "translationStatus": "translated"
+    },
     {
       "url": "https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
       "region": "sea",
@@ -363,6 +913,16 @@
       "translationStatus": "translated"
     },
     {
+      "url": "https://en.mercopress.com/2026/11/27/live-streaming-creators-multiply-across-uruguay-and-argentina-as-the-platform-economy-widens-in-mercosur?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+      "region": "latam",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-27T01:46:00.000Z",
+      "originalTitle": "Live Streaming Creators Multiply Across Uruguay and Argentina as the Platform Economy Widens in Mercosur",
+      "title": "メルコスールでプラットフォーム経済が拡大するにつれ、ライブストリーミングクリエイターがウルグアイとアルゼンチンで増加",
+      "summary": "ブエノスアイレスの平日の朝、驚くほど多くの 35 歳未満の人がラジオを聞いていないか、朝食用のテレビを見ていません。代わりに YouTube タブが開いており、明るいスタジオでホストのグループがチャットしています。",
+      "translationStatus": "translated"
+    },
+    {
       "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
       "region": "us",
       "source": "The New York Times",
@@ -400,6 +960,26 @@
       "originalTitle": "'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines",
       "title": "「多くの政治劇」：首脳らが越えてはならない一線にしがみつき、EU首脳会議は混乱に終わる",
       "summary": "EU首脳らに予算に関する越えてはならない一線をやめるよう促すアントニオ・コスタ首相の試みは、木曜日、交渉が難航し苦いものとなったことで失敗に終わった。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019324/Farmers%E2%80%99%20Markets%20for%20the%20Masses:%20The%20Key%20to%20China%E2%80%99s%20Vibrant%20Local%20Food%20Culture",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "originalTitle": "Farmers’ Markets for the Masses: The Key to China’s Vibrant Local Food Culture",
+      "title": "大衆向けのファーマーズ マーケット: 中国の活気に満ちた地元の食文化の鍵",
+      "summary": "中国の消費者は、手頃な価格の生鮮食品サプライチェーンの縁の下の力持ちである地元の食品市場を維持するために「口で投票」する必要がある、と学者は言う。",
+      "translationStatus": "translated"
+    },
+    {
+      "url": "https://www.sixthtone.com/news/1019334/Chinese%20American%20Fields%20Medalist%20Calls%20for%20Math%20Collaboration%20in%20AI%20Age",
+      "region": "china",
+      "source": "Sixth Tone",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "originalTitle": "Chinese American Fields Medalist Calls for Math Collaboration in AI Age",
+      "title": "中国系アメリカ人のフィールドメダリストがAI時代の数学協力を呼びかけ",
+      "summary": "数学の研究と共同研究を目的とした初の汎アジア組織の発足式典で、1982 年のフィールズ賞メダリスト、シントン・ヤウ氏は、この分野における AI の役割について楽観的な見解を示しました。",
       "translationStatus": "translated"
     },
     {
@@ -620,586 +1200,6 @@
       "originalTitle": "BDO issues residence certificate to mother of child denied birth certificate due to SIR row",
       "title": "BDO、SIR問題により出生証明書を拒否された子の母親に住民票を発行",
       "summary": "アミナ・ハトゥン氏とアブドゥル・ハビブ氏は、SIR中にアブドゥル・ハビブ氏の名前が選挙人名簿から抹消されたことを理由に出生証明書に必要な居住証明を拒否された。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T20:52:06.000Z",
-      "originalTitle": "Karnataka Industries Minister holds talks with four Japanese companies",
-      "title": "カルナータカ州産業大臣が日本企業4社と会談",
-      "summary": "大中産業大臣 M.B.パティル氏は来日4日目、カルナータカ州での既存事業と拡大計画に焦点を当て、日本企業4社と協議した。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-eu-2092-rdf",
-      "region": "eu",
-      "source": "DW",
-      "publishedAt": "2026-11-26T20:44:00.000Z",
-      "originalTitle": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-      "title": "アルバニアの若者たちはもう国外に出ず、フラミンゴ革命に抗議している",
-      "summary": "硬直的な政治制度と汚職に対する若者の抗議活動がアルバニアのエディ・ラマ首相の政権を揺るがしている。また、より良い未来を求めて移住する若者が減っていることも示している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.batimes.com.ar/news/economy/mileis-overhaul-of-argentinas-central-bank-wins-final-approval-in-congress.phtml",
-      "region": "latam",
-      "source": "Buenos Aires Times",
-      "publishedAt": "2026-11-26T20:35:20.000Z",
-      "originalTitle": "Milei’s overhaul of Argentina’s Central Bank wins final approval in Congress",
-      "title": "ミレイ氏によるアルゼンチン中央銀行の見直しが議会で最終承認を獲得",
-      "summary": "ミレイ氏が全面的に見直した中央銀行憲章が議会の最終承認を得る。リーマス",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T20:34:34.000Z",
-      "originalTitle": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-      "title": "サウジのジーザン製油所攻撃で1人死亡、操業中断",
-      "summary": "サウジエネルギー省によると、この攻撃でネパール人１人が死亡、数人が負傷し、火災が発生した。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T20:32:43.000Z",
-      "originalTitle": "Indian politician facing murder charges hosts 400,000-guest wedding",
-      "title": "インドの政治家、殺人容疑で40万人規模の結婚式を主催",
-      "summary": "インド最貧州ビハール州で行われた政治家アナント・シンの娘の豪華な結婚式には推定40万人が参列した。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T20:31:50.000Z",
-      "originalTitle": "Mexico seeks US talks about suspected SpaceX debris",
-      "title": "メキシコ、スペースX社のデブリ疑惑について米国との協議を求める",
-      "summary": "スペースX社がテキサス州の国境近くのスターベースからのロケット打ち上げを強化していることをメキシコは懸念している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/kerala/chief-minister-to-release-book-on-cochin-royal-family/article71747835.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T20:27:14.000Z",
-      "originalTitle": "Chief Minister to release book on Cochin royal family",
-      "title": "首相、コーチン王家に関する本を出版へ",
-      "summary": "",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
-      "region": "us",
-      "source": "The New York Times",
-      "publishedAt": "2026-11-26T19:53:46.000Z",
-      "originalTitle": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
-      "title": "クリントン政権の国務省に加わったジャーナリスト、ストロボ・タルボット氏が死去",
-      "summary": "彼はタイム誌の記者兼外交コラムニストであり、その後国務副長官およびブルッキングス研究所の所長を務めた。彼は80歳でした。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://timesofindia.indiatimes.com/india/ex-terrorist-fugitives-19-year-run-ends-in-arrest/articleshow/136202551.cms",
-      "region": "india",
-      "source": "Times of India",
-      "publishedAt": "2026-11-26T19:28:18.000Z",
-      "originalTitle": "Ex-terrorist fugitive’s 19-year run ends in arrest",
-      "title": "元テロリスト逃亡犯の19年間の逃亡劇が逮捕で終わる",
-      "summary": "元テロリストのモハマド・マンシャがトラルの警察合同チームに逮捕された。彼は2007年に武器を放棄して以来、20年近く法執行機関から逃れてきた。当局は、彼が少なくとも13件の刑事事件で指名手配されていたことを明らかにした。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://timesofindia.indiatimes.com/india/sheshnag-lake-row-karan-singh-questions-need-for-wider-road-pdp-steps-up-heat/articleshow/136202550.cms",
-      "region": "india",
-      "source": "Times of India",
-      "publishedAt": "2026-11-26T19:27:38.000Z",
-      "originalTitle": "Sheshnag Lake row: Karan Singh questions need for wider road, PDP steps up heat",
-      "title": "シェシュナグ湖の列：カラン・シン氏、より広い道路の必要性を質問、PDPは熱を高める",
-      "summary": "アマルナス・ヤトラルート沿いのシェシュナグ湖付近に重機が存在することについての議論が続いており、厳しい監視が集まっている。カラン・シン氏は、すべての巡礼路が巡礼者に車でのアクセスを必要とするわけではないと指摘した。ミーンウィ",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.batimes.com.ar/news/argentina/milei-pushes-electoral-overhaul-for-2027-election.phtml",
-      "region": "latam",
-      "source": "Buenos Aires Times",
-      "publishedAt": "2026-11-26T19:06:23.000Z",
-      "originalTitle": "Milei pushes electoral overhaul for 2027 election",
-      "title": "ミレイ氏、2027年の選挙に向けて選挙制度の見直しを推進",
-      "summary": "政府は予備選の停止とより広範な選挙改革を進める。パッケージ改革はPASOを2027年に停止し、「Ficha Limpia」の白紙のルールを導入し、投票システムを変更する。リーマス",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.batimes.com.ar/news/world/argentina-awaits-key-international-ruling-on-bid-to-halt-malvinas-oil-exploration.phtml",
-      "region": "latam",
-      "source": "Buenos Aires Times",
-      "publishedAt": "2026-11-26T17:10:36.000Z",
-      "originalTitle": "Argentina awaits key international ruling on bid to halt Malvinas oil exploration",
-      "title": "アルゼンチンはマルビナス石油探査中止入札に関する重要な国際判決を待っている",
-      "summary": "国際海洋法裁判所は土曜日に判決を発表予定。この判決は、ブエノスアイレスが国際を通じて主権主張を追求している間に、英国が認可したアシカプロジェクトでの掘削を進めることができるかどうかを決定する可能性がある",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
-      "region": "us",
-      "source": "The New York Times",
-      "publishedAt": "2026-11-26T16:50:50.000Z",
-      "originalTitle": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
-      "title": "陸軍はアイオワ州での爆発の危険性をずっと前から知っていた、と証拠が示唆",
-      "summary": "アイオワ州の工場で不安定爆発物を除去する取り組みは1年以上前に始まったが、その時点では完了しておらず、水曜日の物議を醸す爆発事件の舞台となった。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
-      "region": "us",
-      "source": "The New York Times",
-      "publishedAt": "2026-11-26T15:44:53.000Z",
-      "originalTitle": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
-      "title": "トランプ政権のSNAP削減で学校給食の無料化が脅かされる",
-      "summary": "トランプ政権による補足栄養支援プログラムの削減と規制変更案は、学校給食と朝食に影響を与えるだろう。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T15:00:42.000Z",
-      "originalTitle": "From volume to value: making tourism work for more of Europe",
-      "title": "量から価値へ: ヨーロッパのより多くの地域で観光を機能させる",
-      "summary": "観光はヨーロッパの政策決定において中心的な位置を占めるに値すると、ブッキング・ドットコムのピーター・ロッホビーラー氏はユーロニュースへの意見記事で書いている。 EUは、世界中の観光客を誘致するためにあまり知られていない目的地を支援し、地域の活性化を促進すべきである",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-eu-2092-rdf",
-      "region": "eu",
-      "source": "DW",
-      "publishedAt": "2026-11-26T14:45:00.000Z",
-      "originalTitle": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-      "title": "FIFA、FIFAに対するサイバー攻撃は「限られた個人情報とビジネス情報」を標的としたと発表",
-      "summary": "世界サッカー統括団体は、サイバー攻撃は個人情報と企業情報を標的としたと発表した。この攻撃は、銃撃を受けている組織とその会長ジャンニ・インファンティーノにとって微妙な時期に行われた。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.scmp.com/news/china/science/article/3375869/more-50-americans-believe-china-winning-so-does-rest-world",
-      "region": "china",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-11-26T14:00:08.000Z",
-      "originalTitle": "More than 50% of Americans believe China is winning. So does the rest of the world",
-      "title": "アメリカ人の50％以上が中国が勝利していると信じている。世界の他の地域も同様です",
-      "summary": "米国の世論データに基づいた調査によると、米国人の半数以上が、中国は技術力、経済力、さらには軍事力においてすでに米国を追い抜いているか、最終的には追い越すだろうと信じている。比率は",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.batimes.com.ar/news/economy/caputo-argentina-has-activated-us5-billion-chinese-currency-swap-to-guarantee-debt-payments.phtml",
-      "region": "latam",
-      "source": "Buenos Aires Times",
-      "publishedAt": "2026-11-26T13:24:35.000Z",
-      "originalTitle": "Caputo: Argentina has activated US$5-billion Chinese currency swap to guarantee debt repayments",
-      "title": "カプト氏：アルゼンチンは債務返済を保証するために50億米ドルの中国通貨スワップを発動した",
-      "summary": "ハビエル・ミレイ大統領の経済大臣は、2027年の債務満期に対する市場の疑念を払拭しようとしている。リーマス",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.scmp.com/news/china/politics/article/3375953/china-busts-cross-border-blood-smuggling-ring-over-biosecurity-fears",
-      "region": "china",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-11-26T13:20:02.000Z",
-      "originalTitle": "China busts cross-border blood smuggling ring over biosecurity fears",
-      "title": "中国、バイオセキュリティへの懸念から国境を越えた血液密輸組織を摘発",
-      "summary": "中国は妊婦の血液サンプルの密輸を取り締まり、当局が国家のバイオセキュリティーに対する脅威としているものを浮き彫りにした。国営放送CCTVは水曜日、深セン税関が密輸取締りを行っていると報じた。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.scmp.com/news/china/military/article/3375933/japan-plans-new-long-range-anti-ship-missile-bolster-naval-build",
-      "region": "china",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-11-26T12:30:15.000Z",
-      "originalTitle": "Japan plans new long-range anti-ship missile to bolster naval build-up",
-      "title": "日本は海軍増強を強化するために新しい長距離対艦ミサイルを計画している",
-      "summary": "日本のメディア報道によると、日本政府は、より広範囲の船舶から発射可能な新型長距離対艦ミサイルの導入を計画しており、紛争における中国の軍事計画が複雑になる可能性がある。提案された CA",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3375625/shenzhens-apec-legacy-chinas-shift-recognition-responsibility",
-      "region": "china",
-      "source": "South China Morning Post",
-      "publishedAt": "2026-11-26T12:30:10.000Z",
-      "originalTitle": "Shenzhen’s Apec legacy: China’s shift from recognition to responsibility",
-      "title": "深センのAPEC遺産：中国の承認から責任への移行",
-      "summary": "アジア太平洋経済協力会議が深センで閉幕した際、外交や象徴性を超えて一つの疑問が浮上した。それは、増大する中国の世界的影響力が今、中国に何を求めているのかということだ。過去 40 年間のほとんどにおいて、中国の最も重要な国は、",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-eu-2092-rdf",
-      "region": "eu",
-      "source": "DW",
-      "publishedAt": "2026-11-26T11:58:00.000Z",
-      "originalTitle": "Crew member dies after diesel tanker sinks off Ibiza coast",
-      "title": "イビサ沖でディーゼルタンカー沈没、乗組員死亡",
-      "summary": "スペインのイビサ島沖でディーゼルタンカーが沈没し、当局は乗組員17人を救助したが、その後1人が病院で死亡した。汚染被害の可能性に対する緊急時対応計画が現在整備されています。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T11:51:35.000Z",
-      "originalTitle": "TUI boss wants EU to cut bureaucracy, attract talent and expand green energy",
-      "title": "TUIのトップはEUが官僚主義を削減し、人材を引き付け、グリーンエネルギーを拡大することを望んでいる",
-      "summary": "ユーロニュースはTUIの最高経営責任者（CEO）セバスチャン・エベル氏に、肥料で動くクルーズ船、移住、米国への依存、人工知能、観光の未来について語った。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.bangkokpost.com/thailand/general/3361699/social-security-board-election-winner-disqualified",
-      "region": "sea",
-      "source": "Bangkok Post",
-      "publishedAt": "2026-11-26T11:31:00.000Z",
-      "originalTitle": "Social Security Board election winner disqualified",
-      "title": "社会保障委員会選挙の勝者は失格",
-      "summary": "社会保障委員会の選挙を監督する委員会は、タナポン・チュアムアンファン氏に対する告訴には理由があるとの判決を下し、全会一致で新たに選出された委員会からタナポン・チュアムアンファン氏の資格を剥奪した。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.bangkokpost.com/business/general/3361701/status-update-asian-nations-trade-talks-with-us",
-      "region": "sea",
-      "source": "Bangkok Post",
-      "publishedAt": "2026-11-26T11:25:00.000Z",
-      "originalTitle": "Status update: Asian nations’ trade talks with US",
-      "title": "現状最新情報：アジア諸国と米国の通商交渉",
-      "summary": "ドナルド・トランプ米大統領は水曜日、中国、インド、日本、韓国などのアジアのトップ経済国を含む14の主要貿易相手国に対する新たな追加関税を発表した。また、昨年はタイもリストに含まれています。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.bangkokpost.com/business/general/3361696/sec-data-breach-affects-155-users",
-      "region": "sea",
-      "source": "Bangkok Post",
-      "publishedAt": "2026-11-26T11:03:00.000Z",
-      "originalTitle": "SEC data breach affects 155 users",
-      "title": "SEC データ侵害、155 人のユーザーに影響",
-      "summary": "証券取引委員会 (SEC) は、10 の企業および組織の 155 人のユーザーに属する個人情報に関わるデータ侵害を報告しました。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/asia/usa-donald-trump-tariffs-asian-trade-partners-analysis-6584851",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T10:59:20.000Z",
-      "originalTitle": "Trump's latest tariffs aimed at pressuring Asian trade partners into deals: Analysts",
-      "title": "トランプ大統領の最新の関税はアジアの貿易相手国に協定を結ぶよう圧力をかけるのが目的＝アナリストら",
-      "summary": "アジアを中心とする14カ国に対する関税案は、米国政府が過剰な産業能力と不公平な貿易慣行と呼ぶものに対抗する取り組みを強化する中で行われた。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/us-says-spacex-can-deploy-1-million-satellites-to-build-data-centres-in-space",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T10:30:42.000Z",
-      "originalTitle": "US says SpaceX can deploy 1 million satellites to build data centres in space",
-      "title": "米国はSpaceXが宇宙にデータセンターを構築するために100万個の衛星を配備できると発表",
-      "summary": "米国連邦通信委員会は、イーロン・マスク氏のロケット会社に、地球上の AI を強化するデータセンター群を構築する権限を与えました。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/asia/indian-trade-body-urges-retaliatory-tariffs-us-goods-warns-500000-jobs-risk-6584816",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T10:29:00.000Z",
-      "originalTitle": "Indian trade body urges retaliatory tariffs on US goods, warns 500,000 jobs at risk",
-      "title": "インド貿易団体、米国製品への報復関税を要請、50万人の雇用が危険にさらされると警告",
-      "summary": "米国の関税提案によりインドの輸出額480億ドル以上が影響を受ける可能性があり、繊維、宝石・宝飾品、自動車部品、水産業界が最も大きな打撃を受けると業界団体は警告している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/business/malaysia-priority-lenders-airasia-6584846",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T10:19:24.000Z",
-      "originalTitle": "Malaysia wants priority over other lenders if it backs AirAsia",
-      "title": "マレーシアはエアアジアを支援する場合、他の金融機関よりも優先したいと考えている",
-      "summary": "エアアジアは、国際債券市場から最大10億米ドルを調達するとともに、国内の信用枠から7億リンギを調達することを目指している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/after-initial-reluctance-bulgaria-says-its-ready-to-join-45-billion-ukraine-loan",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T10:18:45.000Z",
-      "originalTitle": "After initial reluctance, Bulgaria says it's 'ready' to join €45 billion Ukraine loan",
-      "title": "当初は消極的だったが、ブルガリアは450億ユーロのウクライナ融資に参加する「準備ができている」と表明",
-      "summary": "ルーメン・ラデフ首相は木曜日、ブルガリアがウクライナへの新たな450億ユーロの支援融資に貢献することを確認した。しかし、国は武器や弾薬の費用を援助するつもりはない。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-      "region": "us",
-      "source": "NPR News",
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "originalTitle": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-      "title": "アルバカーキのインディアン プエブロ キッチンでは、ネイティブ アメリカン料理がメインコースです",
-      "summary": "ニューメキシコ州アルバカーキの博物館にあるこのレストランは、グリーンチリシチューやアニスとシナモン風味の甘いビスコチートなどの料理で、展示品と同じくらい人気があります。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-      "region": "us",
-      "source": "NPR News",
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "originalTitle": "'Memories of a Good Meal': How food made a difference during WWII",
-      "title": "「おいしい食事の思い出」: 第二次世界大戦中に食べ物がどのように変化をもたらしたか",
-      "summary": "ニューオーリンズのシェフ、アロン・シャヤの新しい料理本では、食を中心とした第二次世界大戦からの立ち直りのストーリーが紹介されています。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief",
-      "region": "us",
-      "source": "NPR News",
-      "publishedAt": "2026-11-26T09:44:34.000Z",
-      "originalTitle": "Morning news brief",
-      "title": "朝のニュース概要",
-      "summary": "悪天候により感謝祭の旅行が妨げられ、トランプ政権は米国の主要貿易相手国に新たな関税を提案し、EPAはアイオワ州軍需品の爆発後の鉛汚染の検査を行った。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
-      "region": "us",
-      "source": "NPR News",
-      "publishedAt": "2026-11-26T09:43:27.000Z",
-      "originalTitle": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
-      "title": "メイシーズの感謝祭パレードが延期され、強力な嵐により休日の旅行が中断される",
-      "summary": "強風、高潮、大雨、洪水を引き起こした異常気象は、全米を旅行する推定8,150万人の旅行計画に影響を与えると予想されている。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6045909/severe-weather-took-a-toll-on-wisconsins-cranberry-production-this-year",
-      "region": "us",
-      "source": "NPR News",
-      "publishedAt": "2026-11-26T09:42:02.000Z",
-      "originalTitle": "Severe weather took a toll on Wisconsin's cranberry production this year",
-      "title": "今年の悪天候はウィスコンシン州のクランベリー生産に打撃を与えた",
-      "summary": "ウィスコンシン州は他のどの州よりも多くのクランベリーを栽培しており、アメリカ人が感謝祭で楽しむ果物の多くを供給しています。しかし、同州の生産者の一部は、厳しい天候が続いた今秋の収穫が期待外れだったと報告している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-eu-2092-rdf",
-      "region": "eu",
-      "source": "DW",
-      "publishedAt": "2026-11-26T09:27:00.000Z",
-      "originalTitle": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-      "title": "ロシアとウクライナの戦争はバルト海と地中海にまで拡大",
-      "summary": "キエフは世界中のロシア船舶を攻撃することでモスクワへの圧力を強めようとしていると同時に、西側同盟国にも信号を送っている。世界の海上貿易への影響は何ですか?",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T09:01:00.000Z",
-      "originalTitle": "Seven injured in huge Bangkok oil depot blast, four in critical condition",
-      "title": "バンコク巨大石油貯蔵所爆発で7人負傷、4人重体",
-      "summary": "バンチャック石油貯蔵所は、都市部に位置するタイ唯一の製油所です。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/asia/vietnam-us-trade-deal-tariffs-clothing-footwear-exports-6584591",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T08:38:00.000Z",
-      "originalTitle": "Vietnam seeks US trade deal as tariffs threaten clothing, footwear exports",
-      "title": "関税が衣料品や履物の輸出を脅かすため、ベトナムは米国との貿易協定を求める",
-      "summary": "ベトナムは米国のパートナーの中で最大の貿易黒字を出している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/eu-wants-more-data-centres-but-wont-force-new-green-commitments-leaked-draft-reveals",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T08:30:54.000Z",
-      "originalTitle": "EU wants more data centres but won't force new green commitments, leaked draft reveals",
-      "title": "EUはデータセンターの増設を望んでいるが、新たな環境への取り組みを強制するつもりはないと漏洩草案で明らかに",
-      "summary": "EUは、電力消費と送電網への圧力に対する懸念が高まっているにもかかわらず、5～7年以内に容量を3倍にすることを目指して、データセンターの拡張を加速するための自主協定を準備している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.arabnews.com/business/saudi-gaming-accelerator-graduates-21-startups-with-6m-in-investments-3014101",
-      "region": "mideast",
-      "source": "Arab News",
-      "publishedAt": "2026-11-26T08:15:04.000Z",
-      "originalTitle": "Saudi gaming accelerator graduates 21 startups with $6m in investments",
-      "title": "サウジのゲームアクセラレーターが600万ドルの投資で21社のスタートアップを卒業",
-      "summary": "リヤド：リヤド市王立委員会がクリエイティブ・ディストリクトに導入した企業の1つであるイノベーション・プラットフォームのExel by Merakは、ゲーム・アクセラレーターの第3期を終了し、サウジアラビアのスタートアップ24社のうち21社を卒業した。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/21-cr-travelator-bridge-to-link-nampally-railway-station-hyderabad-metro-station/article71745578.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T08:10:17.000Z",
-      "originalTitle": "21-cr travelator bridge to link Nampally Railway Station, Hyderabad Metro Station; 10 of 20 foundations completed",
-      "title": "ナンパリー駅と地下鉄ハイデラバード駅を結ぶ 21 クレのトラベレーター橋。 20の基礎のうち10が完成",
-      "summary": "1907 年に開業した 100 年の歴史を持つナンパリー駅には、毎日約 60 本の列車と約 25,000 人の乗客が乗車しています。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/no-muslim-irrespective-of-political-affiliation-can-be-prevented-from-offering-namaz-in-mosques-madras-high-court/article71745405.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T08:10:05.000Z",
-      "originalTitle": "No Muslim, irrespective of political affiliation, can be prevented from offering Namaz in mosques: Madras High Court",
-      "title": "政治的所属に関係なく、イスラム教徒はモスクでナマズを捧げることを妨げられない：マドラス高等裁判所",
-      "summary": "V・ラクシュミナラヤナン判事は、イスラム教に従って、誰がイスラム教徒で誰がそうでないかを決めるのは全能者であるアッラーのみであり、一般の人間が決めることではない、と述べている。この命令は、BJP によって提出された令状請願書 (刑事) を処理する間に可決されました。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-udf-govt-forms-sub-committee-to-finalise-liquor-policy/article71745707.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T08:09:21.000Z",
-      "originalTitle": "Keralam UDF govt forms sub-committee to finalise liquor policy",
-      "title": "ケララム州UDF政府、酒類政策を最終決定するための小委員会を設立",
-      "summary": "小委員会は、州の財政的危機と、酒類消費を中心とした公衆衛生や家族福祉への懸念を含む社会的、宗教的、政治的敏感性との間で綱渡りをする態勢を整えているようだ",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/why-viral-video-of-an-earthmover-near-kashmirs-sheshnag-lake-has-sparked-protests-explained/article71745734.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T08:08:57.000Z",
-      "originalTitle": "Why viral video of an earthmover near Kashmir’s Sheshnag Lake has sparked protests | Explained",
-      "title": "なぜカシミールのシェシュナグ湖近くの土木作業員のビデオが拡散して抗議活動を引き起こしたのか |説明済み",
-      "summary": "新たな建設に関するソーシャルメディアの主張を「不正確」として却下し、国境道路機構（BRO）は、進行中の活動は既存の巡礼路の拡張と維持に厳密に限定されていると明言した",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-launches-christmas-new-year-bumper-lottery-with-25-crore-first-prize/article71745577.ece",
-      "region": "india",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-26T08:06:33.000Z",
-      "originalTitle": "Keralam CM launches Christmas-New Year Bumper Lottery with ₹25-crore first prize",
-      "title": "ケララム州のCM、1等賞金250億ルピーのクリスマス・新年バンパー宝くじを発売",
-      "summary": "チケットの販売は ₹450 で 11 月 28 日に開始されます。抽選は 2027 年 2 月 1 日に行われます",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.arabnews.com/food-health/walaa-dashash-serves-up-saudi-comfort-food-in-paris-3014102",
-      "region": "mideast",
-      "source": "Arab News",
-      "publishedAt": "2026-11-26T08:01:56.000Z",
-      "originalTitle": "Wala’a Dashash serves up Saudi comfort food in Paris",
-      "title": "ワラア・ダシャシュ、パリでサウジアラビアの家庭料理を提供",
-      "summary": "パリ：ワラア・ダシャシュさんは16年前に故郷のダーランからフランスに移住し、パリのサウジアラビア料理店「ワウ」で2年近く料理と文化を提供し続けている。しかし、他の人のために食べ物を準備することはダシャシュの生活の一部です",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.channelnewsasia.com/asia/myanmar-will-not-comply-icj-rohingya-genocide-ruling-6584511",
-      "region": "sea",
-      "source": "CNA",
-      "publishedAt": "2026-11-26T07:56:00.000Z",
-      "originalTitle": "Myanmar won't comply with 'inappropriate' parts of genocide ruling: Leader",
-      "title": "ミャンマーは大量虐殺判決の「不適切な」部分には従わない：指導者",
-      "summary": "ミャンマーは、国家がロヒンギャに対する大量虐殺を行ったと裁判所が認定した後、「適切な」措置を講じるが、不適切とみなしたICJの要求には従わないと述べた。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://timesofindia.indiatimes.com/india/sharad-pawar-hospitalised-again-admitted-to-breach-candy-hospital-in-mumbai/articleshow/136183449.cms",
-      "region": "india",
-      "source": "Times of India",
-      "publishedAt": "2026-11-26T07:55:02.000Z",
-      "originalTitle": "Sharad Pawar hospitalised again, admitted to Breach Candy Hospital in Mumbai",
-      "title": "シャラド・パワールが再び入院、ムンバイのブリーチ・キャンディ病院に入院",
-      "summary": "",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://timesofindia.indiatimes.com/india/supreme-court-rules-pmla-adjudicating-authority-cannot-confirm-ed-property-attachment-without-judicial-member/articleshow/136181938.cms",
-      "region": "india",
-      "source": "Times of India",
-      "publishedAt": "2026-11-26T07:53:49.000Z",
-      "originalTitle": "Supreme Court rules PMLA Adjudicating Authority cannot confirm ED property attachment without judicial member",
-      "title": "最高裁判所は、PMLA 裁定当局は司法委員なしでは ED 財産差し押さえを確認できないとの判決を下した",
-      "summary": "",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T07:43:14.000Z",
-      "originalTitle": "Photos: Rallies around the world denounce violence against women",
-      "title": "写真: 世界中で女性に対する暴力を非難する集会が開かれている",
-      "summary": "国連のデータによると、昨年約4万7000人の女性と少女が親密なパートナーや家族によって意図的に殺害された。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T07:41:30.000Z",
-      "originalTitle": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
-      "title": "コンゴ民主共和国、東部での戦闘による対応混乱でエボラ出血熱感染者が1万2000人を超える",
-      "summary": "東部での戦闘により医療従事者や民間人が避難する中、当局は国内最悪のエボラ出血熱の流行を阻止しようと奮闘している。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.arabnews.com/world/rescuers-battle-dark-flooded-indonesian-mine-as-10-remain-missing-and-16-dead-3014096",
-      "region": "mideast",
-      "source": "Arab News",
-      "publishedAt": "2026-11-26T07:40:30.000Z",
-      "originalTitle": "Rescuers battle dark, flooded Indonesian mine as 10 remain missing and 16 dead",
-      "title": "10人が行方不明、16人が死亡、浸水したインドネシア鉱山で救助隊が暗闇で戦う",
-      "summary": "西ジャワ州ボゴールの違法金鉱山では救助活動が行われており、洪水により鉱山労働者が閉じ込められ、16人の死亡が確認され、10人が行方不明となっている。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://timesofindia.indiatimes.com/india/more-obstructionist-than-opposition-pm-modi-accuses-congress-of-weakening-democracy-on-constitution-day/articleshow/136182832.cms",
-      "region": "india",
-      "source": "Times of India",
-      "publishedAt": "2026-11-26T07:38:25.000Z",
-      "originalTitle": "'More obstructionist than opposition': PM Modi accuses Congress of weakening democracy on Constitution Day",
-      "title": "「反対派というより妨害主義者」モディ首相、憲法記念日に民主主義を弱体化させたと議会を非難",
-      "summary": "",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-      "region": "mideast",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T07:38:00.000Z",
-      "originalTitle": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-      "title": "インドネシア金鉱山の洪水で少なくとも13人死亡、救助活動激化",
-      "summary": "狭くて深く滑りやすい掘削ピットと最小限の照明という厳しい状況に直面する救助隊員。",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.arabnews.com/food-health/recipes-for-success-chef-giovanni-ledon-everyone-is-happier-after-a-great-plate-of-noodles-3014098",
-      "region": "mideast",
-      "source": "Arab News",
-      "publishedAt": "2026-11-26T07:35:13.000Z",
-      "originalTitle": "Recipes for Success: Chef Giovanni Ledon: ‘Everyone is happier after a great plate of noodles’",
-      "title": "成功の秘訣: ジョバンニ・ルドンシェフ: 「素晴らしい麺類を食べた後は、誰もがより幸せになります」",
-      "summary": "トロント：ラスベガス出身のジョバンニ・レドンはアラブニュースに、料理が彼の「最初の真の情熱」であり、「他のことをしたいと思ったことは覚えていない」と語った。プロのシェフへの第一歩は多忙なkitcで始まった",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.euronews.com/2026/11/26/europes-2-trillion-punch-up-welcome-to-the-brussels-fight-club",
-      "region": "eu",
-      "source": "Euronews",
-      "publishedAt": "2026-11-26T07:24:16.000Z",
-      "originalTitle": "Europe’s €2 trillion punch-up: Welcome to the Brussels fight club",
-      "title": "ヨーロッパの2兆ユーロの大打撃: ブリュッセルのファイトクラブへようこそ",
-      "summary": "おはようございます。レオ・チェンドロヴィッチが木曜日のニュースレターをお送りします。 EUの指導者たちが7年間の予算をめぐって口論するためにブリュッセルに集まっている中、今日私たちは議題に全能の攻撃を加えている。この大騒ぎは、EU加盟国によってほぼ確実に解決されない",
-      "translationStatus": "translated"
-    },
-    {
-      "url": "https://www.arabnews.com/middle-east/sudanese-families-return-to-khartoum-only-to-find-homes-uninhabitable-3014097",
-      "region": "mideast",
-      "source": "Arab News",
-      "publishedAt": "2026-11-26T07:24:09.000Z",
-      "originalTitle": "Sudanese families return to Khartoum only to find homes uninhabitable",
-      "title": "スーダン人家族がハルツームに戻ると、そこには住めない家があった",
-      "summary": "多くのスーダン人家族にとって、首都ハルツームに戻っても避難生活の苦難からはほとんど解放されない。その代わりに、彼らは住みやすい家を見つけるという新たな困難に直面することになる。砲撃、火災、略奪は数え切れないほどの地域を破壊しました。",
       "translationStatus": "translated"
     }
   ]
